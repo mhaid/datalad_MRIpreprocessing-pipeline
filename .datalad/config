@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = 7e6d19a7-b2a0-4c74-b06d-5bbcb725ff22
+[datalad "containers.fmriprep"]
+	image = .datalad/environments/fmriprep/image
+	cmdexec = {python} {img_dspath}\\code\\adapter.py run {img} {cmd}
