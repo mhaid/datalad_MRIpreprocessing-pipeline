@@ -173,7 +173,7 @@ def cli_run(namespace):
               "-v", "{}/license.txt:/opt/freesurfer/license.txt:ro".format(os.getcwd()),
               "-v", "{}:/tmp".format(os.getcwd()),
               "-w", "/tmp",
-              "--user", "$(id -u):$(id -g)",
+              "--user", "{}:{}".format(os.getuid(),os.getgid()),
               "--rm",
               "--interactive"]
 
