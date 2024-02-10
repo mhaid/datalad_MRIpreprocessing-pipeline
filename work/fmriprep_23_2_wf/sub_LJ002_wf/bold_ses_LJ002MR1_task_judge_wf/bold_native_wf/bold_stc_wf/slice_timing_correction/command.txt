@@ -1,0 +1,1 @@
+3dTshift -ignore 1 -prefix sub-LJ002_ses-LJ002MR1_task-judge_bold_tshift.nii.gz -tpattern @slice_timing.1D -TR 1s -tzero 0.461 /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_stc_wf/slice_timing_correction/sub-LJ002_ses-LJ002MR1_task-judge_bold.nii.gz

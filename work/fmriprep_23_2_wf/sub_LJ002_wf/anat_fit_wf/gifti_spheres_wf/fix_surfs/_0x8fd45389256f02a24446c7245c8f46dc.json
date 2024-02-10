@@ -1,0 +1,29 @@
+[
+    [
+        "in_file",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/mapflow/_fs2gii0/lh.sphere.reg_converted.gii",
+                "3c9c9d86f19072bf6f5d897e6e9c86f7"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/mapflow/_fs2gii1/rh.sphere.reg_converted.gii",
+                "51c980b3763b0faf1121b561a6731dbd"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/mapflow/_fs2gii2/lh.sphere_converted.gii",
+                "7faca5685a62c40a9d6ee4098f5ba4f8"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/mapflow/_fs2gii3/rh.sphere_converted.gii",
+                "d992ada00df2fc54b96048b81c0083c3"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

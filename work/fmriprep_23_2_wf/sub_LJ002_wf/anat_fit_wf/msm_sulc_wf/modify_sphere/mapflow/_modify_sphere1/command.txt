@@ -1,0 +1,1 @@
+wb_command -surface-modify-sphere /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/apply_surface_affine/mapflow/_apply_surface_affine1/rh.sphere_converted_xformed.surf.gii 100 rh.sphere_converted_xformed.surf_mod.surf.gii

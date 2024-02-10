@@ -1,0 +1,1 @@
+bet sub-LJ002_ses-LJ002MR1_task-judge_bold_average_corrected.nii.gz sub-LJ002_ses-LJ002MR1_task-judge_bold_average_corrected_brain.nii.gz -f 0.20 -m

@@ -1,0 +1,34 @@
+[
+    [
+        "fixed_image",
+        [
+            "/home/fmriprep/.cache/templateflow/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_T1w.nii.gz",
+            "ce9553d26fd47be57697255cae9ef581"
+        ]
+    ],
+    [
+        "fov_mask",
+        null
+    ],
+    [
+        "keep_native",
+        true
+    ],
+    [
+        "moving_image",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_desc-preproc_T1w.nii.gz",
+            "a1d2a88c960411e83073d73e3d384c7a"
+        ]
+    ],
+    [
+        "xform_code",
+        null
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

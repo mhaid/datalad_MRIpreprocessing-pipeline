@@ -1,0 +1,23 @@
+[
+    [
+        "bids_root",
+        "/tmp/sourcedata/rawdata-bids"
+    ],
+    [
+        "function_str",
+        "def _bids_relative(in_files, bids_root):\n    from pathlib import Path\n\n    if not isinstance(in_files, (list, tuple)):\n        in_files = [in_files]\n    ret = []\n    for file in in_files:\n        try:\n            ret.append(str(Path(file).relative_to(bids_root)))\n        except ValueError:\n            ret.append(file)\n    return in_files\n"
+    ],
+    [
+        "in_files",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/func/sub-LJ002_ses-LJ002MR1_task-judge_desc-coreg_boldref.nii.gz",
+            "7ec154f999b262cb888a4fe1186f531a"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

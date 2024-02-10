@@ -1,0 +1,34 @@
+[
+    [
+        "pial_distvols",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_pial_distvol/mapflow/_create_pial_distvol0/lh.pial_converted_distvol.nii.gz",
+                "72f857d11c99af3f878b30f3eb6b4fab"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_pial_distvol/mapflow/_create_pial_distvol1/rh.pial_converted_distvol.nii.gz",
+                "78418697f276baaf78453df391689637"
+            ]
+        ]
+    ],
+    [
+        "white_distvols",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_wm_distvol/mapflow/_create_wm_distvol0/lh.white_converted_distvol.nii.gz",
+                "2cc501d7e3af0bac283a45d7258ae58f"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_wm_distvol/mapflow/_create_wm_distvol1/rh.white_converted_distvol.nii.gz",
+                "aeff49193ae5600a67c4526ee391499c"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "ribbon"
+        ]
+    ]
+]

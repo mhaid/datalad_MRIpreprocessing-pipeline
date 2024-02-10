@@ -1,0 +1,27 @@
+[
+    [
+        "anat2std_xfm",
+        [
+            [
+                "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_from-T1w_to-MNI152NLin2009cAsym_mode-image_xfm.h5",
+                "ac4f103f44021343b87838ffe52e4dd6"
+            ]
+        ]
+    ],
+    [
+        "key",
+        "MNI152NLin2009cAsym"
+    ],
+    [
+        "keys",
+        [
+            "MNI152NLin2009cAsym"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "anat2std_xfm"
+        ]
+    ]
+]

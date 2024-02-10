@@ -1,0 +1,31 @@
+[
+    [
+        "copy_header",
+        false
+    ],
+    [
+        "dimension",
+        3
+    ],
+    [
+        "op1",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/thr_brainmask/tpl-OASIS30ANTs_res-01_label-brain_probseg_trans_resampled.nii.gz",
+            "be2e0320394903d04e277c2ca406d533"
+        ]
+    ],
+    [
+        "op2",
+        "10"
+    ],
+    [
+        "operation",
+        "PadImage"
+    ],
+    [
+        "needed_outputs",
+        [
+            "output_image"
+        ]
+    ]
+]

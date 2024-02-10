@@ -1,0 +1,22 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fs2gii/mapflow/_fs2gii4/lh.midthickness_converted.gii",
+            "3c424a2dc6b1f95ec8140aec5fadcc0c"
+        ]
+    ],
+    [
+        "transform_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/T1_robustreg.lta",
+            "3a3350a37ed812b95bc6f660dd772288"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

@@ -1,0 +1,23 @@
+[
+    [
+        "function_str",
+        "def dseg_label(in_seg, label, newpath=None):\n    \"\"\"Extract a particular label from a discrete segmentation.\"\"\"\n    from pathlib import Path\n    import nibabel as nb\n    import numpy as np\n    from nipype.utils.filemanip import fname_presuffix\n\n    newpath = Path(newpath or \".\")\n\n    nii = nb.load(in_seg)\n    data = np.int16(nii.dataobj) == label\n\n    out_file = fname_presuffix(in_seg, suffix=\"_mask\", newpath=str(newpath.absolute()))\n    new = nii.__class__(data, nii.affine, nii.header)\n    new.set_data_dtype(np.uint8)\n    new.to_filename(out_file)\n    return out_file\n"
+    ],
+    [
+        "in_seg",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_dseg.nii.gz",
+            "049aa6437207773184c6f1d6af1f697d"
+        ]
+    ],
+    [
+        "label",
+        2
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

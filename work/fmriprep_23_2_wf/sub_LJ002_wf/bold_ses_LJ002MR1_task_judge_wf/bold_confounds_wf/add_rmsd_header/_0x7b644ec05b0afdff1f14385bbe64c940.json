@@ -1,0 +1,21 @@
+[
+    [
+        "columns",
+        [
+            "rmsd"
+        ]
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/mcflirt/sub-LJ002_ses-LJ002MR1_task-judge_bold_mcf.nii.gz_rel.rms",
+            "41c5ca3013ded18f625c39f75c004eaa"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

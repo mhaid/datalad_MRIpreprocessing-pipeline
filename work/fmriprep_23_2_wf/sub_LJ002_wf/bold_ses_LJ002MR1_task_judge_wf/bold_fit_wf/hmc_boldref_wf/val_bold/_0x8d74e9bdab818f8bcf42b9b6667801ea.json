@@ -1,0 +1,16 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/sourcedata/rawdata-bids/sub-LJ002/ses-LJ002MR1/func/sub-LJ002_ses-LJ002MR1_task-judge_bold.nii.gz",
+            "cd62100b19567bee4aa646cd86164b29"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file",
+            "out_report"
+        ]
+    ]
+]

@@ -1,0 +1,22 @@
+[
+    [
+        "in_file",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4_final/mapflow/_inu_n4_final0/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected.nii.gz",
+                "b7c7b4c9313b53cb92ea28ed4a7fef55"
+            ]
+        ]
+    ],
+    [
+        "in_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/thr_brainmask/tpl-OASIS30ANTs_res-01_label-brain_probseg_trans_resampled.nii.gz",
+            "be2e0320394903d04e277c2ca406d533"
+        ]
+    ],
+    [
+        "threshold",
+        "0.5000000000"
+    ]
+]

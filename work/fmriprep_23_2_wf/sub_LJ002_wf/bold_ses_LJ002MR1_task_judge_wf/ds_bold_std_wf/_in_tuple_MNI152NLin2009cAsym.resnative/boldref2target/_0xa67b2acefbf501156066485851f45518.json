@@ -1,0 +1,34 @@
+[
+    [
+        "axis",
+        "vstack"
+    ],
+    [
+        "in1",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/func/sub-LJ002_ses-LJ002MR1_task-judge_from-boldref_to-T1w_mode-image_desc-coreg_xfm.txt",
+            "f18de03dd91a4e923b058a18e133a929"
+        ]
+    ],
+    [
+        "in2",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_from-T1w_to-MNI152NLin2009cAsym_mode-image_xfm.h5",
+            "ac4f103f44021343b87838ffe52e4dd6"
+        ]
+    ],
+    [
+        "no_flatten",
+        false
+    ],
+    [
+        "ravel_inputs",
+        false
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

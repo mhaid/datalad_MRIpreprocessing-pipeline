@@ -1,0 +1,26 @@
+[
+    [
+        "function_str",
+        "def _binary_union(mask1, mask2):\n    \"\"\"Generate the union of two masks.\"\"\"\n    from pathlib import Path\n\n    import nibabel as nb\n    import numpy as np\n\n    img = nb.load(mask1)\n    mskarr1 = np.asanyarray(img.dataobj, dtype=int) > 0\n    mskarr2 = np.asanyarray(nb.load(mask2).dataobj, dtype=int) > 0\n    out = img.__class__(mskarr1 | mskarr2, img.affine, img.header)\n    out.set_data_dtype(\"uint8\")\n    out_name = Path(\"mask_union.nii.gz\").absolute()\n    out.to_filename(out_name)\n    return str(out_name)\n"
+    ],
+    [
+        "mask1",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/sub-LJ002_ses-LJ002MR1_task-judge_bold_average_corrected_brain_mask_maths.nii.gz",
+            "7cdc31749561daad3de6fcaa5391224b"
+        ]
+    ],
+    [
+        "mask2",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/t1w_mask_tfm/sub-LJ002_ses-LJ002MR1_acq-mprage_desc-brain_mask_trans.nii.gz",
+            "8beb1ca407bc6bf9adf2fa2ae07b7571"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

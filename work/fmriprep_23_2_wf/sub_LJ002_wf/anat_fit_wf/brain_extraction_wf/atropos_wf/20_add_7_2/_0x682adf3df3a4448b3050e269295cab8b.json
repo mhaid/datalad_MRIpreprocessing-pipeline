@@ -1,0 +1,34 @@
+[
+    [
+        "copy_header",
+        true
+    ],
+    [
+        "dimension",
+        3
+    ],
+    [
+        "op1",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/19_fill_7/09_relabel_wm_maths_class-03_maths_maths_maths_maths_maths.nii.gz",
+            "a7ba4ce5f8a49cd5326aa87a368346d0"
+        ]
+    ],
+    [
+        "op2",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/03_pad_mask/tpl-OASIS30ANTs_res-01_label-brain_probseg_trans_resampled_maths.nii.gz",
+            "ee3476f6186ee61cf033ba63887e3803"
+        ]
+    ],
+    [
+        "operation",
+        "addtozero"
+    ],
+    [
+        "needed_outputs",
+        [
+            "output_image"
+        ]
+    ]
+]

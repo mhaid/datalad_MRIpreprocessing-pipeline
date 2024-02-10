@@ -1,0 +1,22 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fs2gii/mapflow/_fs2gii1/rh.white_converted.gii",
+            "1361e9cae822b2b016122da97d306b98"
+        ]
+    ],
+    [
+        "transform_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/T1_robustreg.lta",
+            "3a3350a37ed812b95bc6f660dd772288"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

@@ -1,0 +1,36 @@
+[
+    [
+        "in_file",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/mapflow/_acc_msk_tfm0/acompcor_csf_trans.nii.gz",
+                "1feaa970e33fe521fa13caac71c91a9b"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/mapflow/_acc_msk_tfm1/acompcor_wm_trans.nii.gz",
+                "a4a6393adc9582972d9f71af7ff8c050"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/mapflow/_acc_msk_tfm2/acompcor_wmcsf_trans.nii.gz",
+                "e1c7134c06fc6b967aeea05624b3b3bd"
+            ]
+        ]
+    ],
+    [
+        "in_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/sub-LJ002_ses-LJ002MR1_task-judge_bold_average_corrected_brain_mask_maths.nii.gz",
+            "7cdc31749561daad3de6fcaa5391224b"
+        ]
+    ],
+    [
+        "threshold",
+        "0.5000000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

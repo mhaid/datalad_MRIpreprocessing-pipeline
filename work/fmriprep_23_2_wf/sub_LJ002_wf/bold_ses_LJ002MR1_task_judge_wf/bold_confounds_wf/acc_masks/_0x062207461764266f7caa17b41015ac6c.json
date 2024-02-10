@@ -1,0 +1,37 @@
+[
+    [
+        "bold_zooms",
+        [
+            "3.0000000000",
+            "3.0000000000",
+            "3.0000000000"
+        ]
+    ],
+    [
+        "in_vfs",
+        [
+            [
+                "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_label-GM_probseg.nii.gz",
+                "1ecaa0a1460a43af9373ed022b9d087e"
+            ],
+            [
+                "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_label-WM_probseg.nii.gz",
+                "36e8d446593e4c2ed99a2c425d3242b6"
+            ],
+            [
+                "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_label-CSF_probseg.nii.gz",
+                "2175db88a263913cefb55bf91dfd92c3"
+            ]
+        ]
+    ],
+    [
+        "is_aseg",
+        true
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_masks"
+        ]
+    ]
+]

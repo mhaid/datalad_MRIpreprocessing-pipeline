@@ -1,0 +1,92 @@
+status file for recon-all
+Sat Feb 10 17:02:17 UTC 2024
+#@# MotionCor Sat Feb 10 17:02:21 UTC 2024
+#@# Talairach Sat Feb 10 17:02:30 UTC 2024
+#@# Talairach Failure Detection Sat Feb 10 17:06:18 UTC 2024
+#@# Nu Intensity Correction Sat Feb 10 17:06:18 UTC 2024
+#@# Intensity Normalization Sat Feb 10 17:09:56 UTC 2024
+recon-all -s sub-LJ002 finished without error at Sat Feb 10 17:11:18 UTC 2024
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Feb 10 17:17:54 UTC 2024
+#@# EM Registration Sat Feb 10 17:17:54 UTC 2024
+recon-all -s sub-LJ002 finished without error at Sat Feb 10 17:23:32 UTC 2024
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Feb 10 17:23:34 UTC 2024
+#@# CA Normalize Sat Feb 10 17:23:34 UTC 2024
+#@# CA Reg Sat Feb 10 17:24:28 UTC 2024
+#@# SubCort Seg Sat Feb 10 18:34:56 UTC 2024
+#@# CC Seg Sat Feb 10 19:07:49 UTC 2024
+#@# Merge ASeg Sat Feb 10 19:08:24 UTC 2024
+#@# Intensity Normalization2 Sat Feb 10 19:08:24 UTC 2024
+#@# Mask BFS Sat Feb 10 19:10:21 UTC 2024
+#@# WM Segmentation Sat Feb 10 19:10:22 UTC 2024
+#@# Fill Sat Feb 10 19:12:46 UTC 2024
+recon-all -s sub-LJ002 finished without error at Sat Feb 10 19:13:50 UTC 2024
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Feb 10 20:18:35 UTC 2024
+#@# white curv lh Sat Feb 10 20:18:35 UTC 2024
+#@# white area lh Sat Feb 10 20:18:35 UTC 2024
+#@# pial curv lh Sat Feb 10 20:18:35 UTC 2024
+#@# pial area lh Sat Feb 10 20:18:35 UTC 2024
+#@# thickness lh Sat Feb 10 20:18:35 UTC 2024
+#@# area and vertex vol lh Sat Feb 10 20:18:35 UTC 2024
+#@# white curv rh Sat Feb 10 20:18:35 UTC 2024
+#@# white area rh Sat Feb 10 20:18:35 UTC 2024
+#@# pial curv rh Sat Feb 10 20:18:35 UTC 2024
+#@# pial area rh Sat Feb 10 20:18:35 UTC 2024
+#@# thickness rh Sat Feb 10 20:18:35 UTC 2024
+#@# area and vertex vol rh Sat Feb 10 20:18:35 UTC 2024
+#@# Cortical ribbon mask Sat Feb 10 20:18:35 UTC 2024
+recon-all -s sub-LJ002 finished without error at Sat Feb 10 20:29:42 UTC 2024
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Feb 10 20:37:28 UTC 2024
+#@# white curv lh Sat Feb 10 20:37:28 UTC 2024
+#@# white area lh Sat Feb 10 20:37:28 UTC 2024
+#@# pial curv lh Sat Feb 10 20:37:28 UTC 2024
+#@# pial area lh Sat Feb 10 20:37:28 UTC 2024
+#@# thickness lh Sat Feb 10 20:37:28 UTC 2024
+#@# area and vertex vol lh Sat Feb 10 20:37:29 UTC 2024
+#@# white curv rh Sat Feb 10 20:37:29 UTC 2024
+#@# white area rh Sat Feb 10 20:37:29 UTC 2024
+#@# pial curv rh Sat Feb 10 20:37:29 UTC 2024
+#@# pial area rh Sat Feb 10 20:37:29 UTC 2024
+#@# thickness rh Sat Feb 10 20:37:29 UTC 2024
+#@# area and vertex vol rh Sat Feb 10 20:37:29 UTC 2024
+#@# Curvature Stats lh Sat Feb 10 20:37:29 UTC 2024
+#@# Curvature Stats rh Sat Feb 10 20:37:31 UTC 2024
+#@# Relabel Hypointensities Sat Feb 10 20:37:34 UTC 2024
+#@# APas-to-ASeg Sat Feb 10 20:37:53 UTC 2024
+#@# AParc-to-ASeg aparc Sat Feb 10 20:38:04 UTC 2024
+#@# AParc-to-ASeg aparc.a2009s Sat Feb 10 20:39:58 UTC 2024
+#@# AParc-to-ASeg aparc.DKTatlas Sat Feb 10 20:41:56 UTC 2024
+#@# WMParc Sat Feb 10 20:44:01 UTC 2024
+#@# ASeg Stats Sat Feb 10 20:48:44 UTC 2024
+recon-all -s sub-LJ002 finished without error at Sat Feb 10 20:50:19 UTC 2024

@@ -1,0 +1,37 @@
+[
+    [
+        "fixed_image",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_desc-preproc_T1w.nii.gz",
+            "a1d2a88c960411e83073d73e3d384c7a"
+        ]
+    ],
+    [
+        "fov_mask",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_desc-brain_mask.nii.gz",
+            "25fc350aeeaf084d9727bf77579d2104"
+        ]
+    ],
+    [
+        "keep_native",
+        true
+    ],
+    [
+        "moving_image",
+        [
+            "/tmp/sub-LJ002/ses-LJ002MR1/func/sub-LJ002_ses-LJ002MR1_task-judge_desc-coreg_boldref.nii.gz",
+            "7ec154f999b262cb888a4fe1186f531a"
+        ]
+    ],
+    [
+        "xform_code",
+        null
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

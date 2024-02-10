@@ -1,0 +1,36 @@
+[
+    [
+        "axis",
+        "vstack"
+    ],
+    [
+        "in1",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4/mapflow/_inu_n40/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_maths_corrected.nii.gz",
+                "93b6e9a49dbea68b67231d6f558c71ae"
+            ]
+        ]
+    ],
+    [
+        "in2",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/lap_target/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_maths_corrected_maths.nii.gz",
+            "24d4760c14e3797e605ee1ed3272ad0b"
+        ]
+    ],
+    [
+        "no_flatten",
+        false
+    ],
+    [
+        "ravel_inputs",
+        false
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

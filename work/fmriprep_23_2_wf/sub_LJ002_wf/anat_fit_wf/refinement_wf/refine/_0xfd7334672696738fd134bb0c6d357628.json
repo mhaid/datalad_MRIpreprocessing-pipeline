@@ -1,0 +1,29 @@
+[
+    [
+        "in_anat",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_xform.nii.gz",
+            "49a441ffa8e2b38edd1f2966a8ab6cdb"
+        ]
+    ],
+    [
+        "in_ants",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/09_relabel_wm_maths_maths_xform.nii.gz",
+            "07c0130927e513c7952ad4e2112f6c14"
+        ]
+    ],
+    [
+        "in_aseg",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/resample/seg.nii.gz",
+            "8cf9bf35057e02eb24755d1663e75e84"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

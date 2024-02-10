@@ -1,0 +1,26 @@
+[
+    [
+        "in_xfms",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/T1_robustreg.lta",
+                "3a3350a37ed812b95bc6f660dd772288"
+            ]
+        ]
+    ],
+    [
+        "inverse",
+        true
+    ],
+    [
+        "out_fmt",
+        "itk"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_inv",
+            "out_xfm"
+        ]
+    ]
+]

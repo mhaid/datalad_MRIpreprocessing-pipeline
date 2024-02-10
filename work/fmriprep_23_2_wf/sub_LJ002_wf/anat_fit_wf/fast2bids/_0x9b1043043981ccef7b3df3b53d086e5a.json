@@ -1,0 +1,29 @@
+[
+    [
+        "function_str",
+        "def _probseg_fast2bids(inlist):\n    \"\"\"Reorder a list of probseg maps from FAST (CSF, WM, GM) to BIDS (GM, WM, CSF).\"\"\"\n    return (inlist[1], inlist[2], inlist[0])\n"
+    ],
+    [
+        "inlist",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/fast/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_xform_masked_pve_0.nii.gz",
+                "fa1e6b7c0528fd4de30e2d72f2145221"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/fast/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_xform_masked_pve_1.nii.gz",
+                "2278231d2dffa65f30f5cf89ac070612"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/fast/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_xform_masked_pve_2.nii.gz",
+                "492da27d1392d87e31d9ab9e60388183"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

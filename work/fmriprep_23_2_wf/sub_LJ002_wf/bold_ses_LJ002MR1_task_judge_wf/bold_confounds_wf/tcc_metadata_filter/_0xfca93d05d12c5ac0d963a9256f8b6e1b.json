@@ -1,0 +1,15 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcompcor/component_metadata.tsv",
+            "3f0119b3ac9df2f460f758df1a59a857"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

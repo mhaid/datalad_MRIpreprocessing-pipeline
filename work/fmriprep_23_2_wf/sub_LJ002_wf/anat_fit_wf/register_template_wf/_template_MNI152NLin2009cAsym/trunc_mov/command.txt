@@ -1,0 +1,1 @@
+ImageMath 3 sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_xform_maths.nii.gz TruncateImageIntensity /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_xform.nii.gz 0.01 0.999 256

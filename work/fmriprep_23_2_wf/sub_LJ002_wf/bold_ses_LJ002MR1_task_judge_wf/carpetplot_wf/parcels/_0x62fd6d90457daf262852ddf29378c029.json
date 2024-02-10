@@ -1,0 +1,37 @@
+[
+    [
+        "acompcor_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_bin/mapflow/_acc_msk_bin2/acompcor_wmcsf_trans_masked_masked.nii.gz",
+            "1ea29ea53f2821e53a35f18a280361e6"
+        ]
+    ],
+    [
+        "crown_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/subtract_mask/subtracted_mask.nii.gz",
+            "fa45725de51498db224e907d3e02fafd"
+        ]
+    ],
+    [
+        "function_str",
+        "def _carpet_parcellation(segmentation, crown_mask, acompcor_mask, nifti=False):\n    \"\"\"Generate the union of two masks.\"\"\"\n    from pathlib import Path\n\n    import nibabel as nb\n    import numpy as np\n\n    img = nb.load(segmentation)\n\n    lut = np.zeros((256,), dtype=\"uint8\")\n    lut[100:201] = 1 if nifti else 0  # Ctx GM\n    lut[30:99] = 2 if nifti else 0  # dGM\n    lut[1:11] = 3 if nifti else 1  # WM+CSF\n    lut[255] = 5 if nifti else 0  # Cerebellum\n    # Apply lookup table\n    seg = lut[np.uint16(img.dataobj)]\n    seg[np.bool_(nb.load(crown_mask).dataobj)] = 6 if nifti else 2\n    # Separate deep from shallow WM+CSF\n    seg[np.bool_(nb.load(acompcor_mask).dataobj)] = 4 if nifti else 1\n\n    outimg = img.__class__(seg.astype(\"uint8\"), img.affine, img.header)\n    outimg.set_data_dtype(\"uint8\")\n    out_file = Path(\"segments.nii.gz\").absolute()\n    outimg.to_filename(out_file)\n    return str(out_file)\n"
+    ],
+    [
+        "nifti",
+        true
+    ],
+    [
+        "segmentation",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/resample_parc/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg_trans.nii.gz",
+            "7108913c95b008709444b588a59749e3"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

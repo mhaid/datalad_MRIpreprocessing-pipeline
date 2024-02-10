@@ -1,0 +1,26 @@
+[
+    [
+        "hires_enabled",
+        true
+    ],
+    [
+        "t1w_list",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/anat_template_wf/denoise/mapflow/_denoise0/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected.nii.gz",
+                "13c9aa439d823e946808aac6aaa7a8b2"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "flair",
+            "hires",
+            "mris_inflate",
+            "t2w",
+            "use_flair",
+            "use_t2w"
+        ]
+    ]
+]

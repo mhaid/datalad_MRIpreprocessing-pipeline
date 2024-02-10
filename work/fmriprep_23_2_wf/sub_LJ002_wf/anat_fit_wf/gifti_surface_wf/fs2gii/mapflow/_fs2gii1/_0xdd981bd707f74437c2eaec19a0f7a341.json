@@ -1,0 +1,27 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/sourcedata/freesurfer/sub-LJ002/surf/rh.white",
+            "d63251ad971154d802177debd863ee69"
+        ]
+    ],
+    [
+        "out_datatype",
+        "gii"
+    ],
+    [
+        "subjects_dir",
+        "/opt/freesurfer/subjects"
+    ],
+    [
+        "to_scanner",
+        true
+    ],
+    [
+        "needed_outputs",
+        [
+            "converted"
+        ]
+    ]
+]

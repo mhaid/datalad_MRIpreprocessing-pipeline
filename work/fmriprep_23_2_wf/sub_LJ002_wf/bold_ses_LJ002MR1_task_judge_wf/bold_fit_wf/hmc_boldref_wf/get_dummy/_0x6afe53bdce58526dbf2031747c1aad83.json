@@ -1,0 +1,28 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/sourcedata/rawdata-bids/sub-LJ002/ses-LJ002MR1/func/sub-LJ002_ses-LJ002MR1_task-judge_bold.nii.gz",
+            "cd62100b19567bee4aa646cd86164b29"
+        ]
+    ],
+    [
+        "n_volumes",
+        40
+    ],
+    [
+        "nonnegative",
+        true
+    ],
+    [
+        "zero_dummy_masked",
+        20
+    ],
+    [
+        "needed_outputs",
+        [
+            "n_dummy",
+            "t_mask"
+        ]
+    ]
+]

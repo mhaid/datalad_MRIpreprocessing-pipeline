@@ -1,0 +1,1 @@
+3dUnifize -clfrac 0.2 -rbt 18.3 65.0 90.0 -prefix uni.nii.gz -T2 -input /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/unifize/sub-LJ002_ses-LJ002MR1_task-judge_bold_average_corrected_brain_masked.nii.gz

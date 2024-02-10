@@ -1,0 +1,32 @@
+[
+    [
+        "derivatives",
+        "/tmp"
+    ],
+    [
+        "freesurfer_home",
+        "/opt/freesurfer"
+    ],
+    [
+        "minimum_fs_version",
+        "7.0.0"
+    ],
+    [
+        "overwrite_fsaverage",
+        false
+    ],
+    [
+        "spaces",
+        []
+    ],
+    [
+        "subjects_dir",
+        "/tmp/sourcedata/freesurfer"
+    ],
+    [
+        "needed_outputs",
+        [
+            "subjects_dir"
+        ]
+    ]
+]

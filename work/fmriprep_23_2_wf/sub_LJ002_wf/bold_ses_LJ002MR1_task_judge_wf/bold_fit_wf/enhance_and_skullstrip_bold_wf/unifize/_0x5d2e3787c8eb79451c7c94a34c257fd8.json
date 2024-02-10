@@ -1,0 +1,31 @@
+[
+    [
+        "args",
+        "-clfrac 0.2 -rbt 18.3 65.0 90.0"
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_mask/sub-LJ002_ses-LJ002MR1_task-judge_bold_average_corrected_brain_masked.nii.gz",
+            "8256c1924585d6e0bbb39619e1699b37"
+        ]
+    ],
+    [
+        "out_file",
+        "uni.nii.gz"
+    ],
+    [
+        "outputtype",
+        "NIFTI_GZ"
+    ],
+    [
+        "t2",
+        true
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

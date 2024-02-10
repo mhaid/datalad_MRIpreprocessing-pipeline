@@ -1,0 +1,22 @@
+[
+    [
+        "in_base",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/dilated_mask/dilated_mask.nii.gz",
+            "ddaaca6d40797a3ee77ee681746c8ea7"
+        ]
+    ],
+    [
+        "in_subtract",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/union_mask/mask_union.nii.gz",
+            "c7745b9518272dc5790cbaa92fbbd6be"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_mask"
+        ]
+    ]
+]

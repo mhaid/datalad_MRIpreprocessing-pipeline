@@ -1,0 +1,35 @@
+[
+    [
+        "clip",
+        true
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4/mapflow/_inu_n40/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_maths_corrected.nii.gz",
+            "93b6e9a49dbea68b67231d6f558c71ae"
+        ]
+    ],
+    [
+        "order",
+        3
+    ],
+    [
+        "smooth",
+        true
+    ],
+    [
+        "zooms",
+        [
+            "4.0000000000",
+            "4.0000000000",
+            "4.0000000000"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

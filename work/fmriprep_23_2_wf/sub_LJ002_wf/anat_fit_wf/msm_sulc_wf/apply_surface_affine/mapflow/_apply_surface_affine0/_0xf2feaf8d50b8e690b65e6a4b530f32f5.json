@@ -1,0 +1,22 @@
+[
+    [
+        "in_affine",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/regress_affine/mapflow/_regress_affine0/lh.sphere_converted_xfm",
+            "7de187a6f34ad40a3bb3bb9901fcb382"
+        ]
+    ],
+    [
+        "in_surface",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs2/lh.sphere_converted.gii",
+            "b51157b4cec3ad64703b7631ff5d662e"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_surface"
+        ]
+    ]
+]

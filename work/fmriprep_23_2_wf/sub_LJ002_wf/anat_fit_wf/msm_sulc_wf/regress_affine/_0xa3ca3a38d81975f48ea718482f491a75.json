@@ -1,0 +1,34 @@
+[
+    [
+        "in_surface",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs2/lh.sphere_converted.gii",
+                "b51157b4cec3ad64703b7631ff5d662e"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs3/rh.sphere_converted.gii",
+                "5d16d65130c0a9ad39f6ab70efe413b3"
+            ]
+        ]
+    ],
+    [
+        "target_surface",
+        [
+            [
+                "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_hemi-L_space-fsLR_desc-reg_sphere.surf.gii",
+                "317268956cd221136fbbca4013433105"
+            ],
+            [
+                "/tmp/sub-LJ002/ses-LJ002MR1/anat/sub-LJ002_ses-LJ002MR1_acq-mprage_hemi-R_space-fsLR_desc-reg_sphere.surf.gii",
+                "8fe5a132a2f559854215774a0cee69f3"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_affine"
+        ]
+    ]
+]
