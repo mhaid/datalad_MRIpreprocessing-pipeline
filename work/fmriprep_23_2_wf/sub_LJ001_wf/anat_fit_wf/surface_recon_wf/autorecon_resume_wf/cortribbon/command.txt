@@ -1,1 +1,0 @@
-recon-all -parallel -subjid sub-LJ001 -sd /tmp/sourcedata/freesurfer -cortribbon

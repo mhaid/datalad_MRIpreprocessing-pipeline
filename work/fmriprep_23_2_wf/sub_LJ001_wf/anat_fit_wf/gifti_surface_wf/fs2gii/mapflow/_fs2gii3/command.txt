@@ -1,1 +1,0 @@
-mris_convert --to-scanner /tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.pial /tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/fs2gii/mapflow/_fs2gii3/rh.pial_converted.gii

@@ -1,1 +1,0 @@
-wb_command -surface-affine-regression /tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs2/lh.sphere_converted.gii /tmp/sub-LJ001/ses-LJ001MR1/anat/sub-LJ001_ses-LJ001MR1_acq-mprage_hemi-L_space-fsLR_desc-reg_sphere.surf.gii lh.sphere_converted_xfm

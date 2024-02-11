@@ -1,1 +1,0 @@
-mris_convert /tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.sphere.reg /tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/mapflow/_fs2gii1/rh.sphere.reg_converted.gii
