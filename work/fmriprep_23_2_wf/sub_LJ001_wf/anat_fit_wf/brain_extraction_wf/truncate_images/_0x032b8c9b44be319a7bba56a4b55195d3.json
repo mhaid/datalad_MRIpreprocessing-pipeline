@@ -1,0 +1,33 @@
+[
+    [
+        "copy_header",
+        true
+    ],
+    [
+        "dimension",
+        3
+    ],
+    [
+        "op1",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/anat_template_wf/denoise/mapflow/_denoise0/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w_noise_corrected.nii.gz",
+                "05f0f698187fb53726cc683c580e3a22"
+            ]
+        ]
+    ],
+    [
+        "op2",
+        "0.01 0.999 256"
+    ],
+    [
+        "operation",
+        "TruncateImageIntensity"
+    ],
+    [
+        "needed_outputs",
+        [
+            "output_image"
+        ]
+    ]
+]

@@ -1,0 +1,31 @@
+[
+    [
+        "copy_header",
+        true
+    ],
+    [
+        "dimension",
+        3
+    ],
+    [
+        "op1",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/17_comp_7/09_relabel_wm_maths_class-03_maths_maths_maths.nii.gz",
+            "87776a37ab9cc3db6e26795ec3cd8759"
+        ]
+    ],
+    [
+        "op2",
+        "4"
+    ],
+    [
+        "operation",
+        "MD"
+    ],
+    [
+        "needed_outputs",
+        [
+            "output_image"
+        ]
+    ]
+]

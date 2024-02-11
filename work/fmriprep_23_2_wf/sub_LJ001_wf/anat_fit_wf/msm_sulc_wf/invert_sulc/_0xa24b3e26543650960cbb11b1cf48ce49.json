@@ -1,0 +1,36 @@
+[
+    [
+        "hemisphere",
+        [
+            "L",
+            "R"
+        ]
+    ],
+    [
+        "metric",
+        "sulc"
+    ],
+    [
+        "metric_file",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/mapflow/_morphs2gii2/lh.sulc_converted.gii",
+                "afb01da9362874329beeaed92c721d33"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/mapflow/_morphs2gii3/rh.sulc_converted.gii",
+                "29e925dc94e85bebc8d18b7c0584ecc4"
+            ]
+        ]
+    ],
+    [
+        "operation",
+        "invert"
+    ],
+    [
+        "needed_outputs",
+        [
+            "metric_file"
+        ]
+    ]
+]

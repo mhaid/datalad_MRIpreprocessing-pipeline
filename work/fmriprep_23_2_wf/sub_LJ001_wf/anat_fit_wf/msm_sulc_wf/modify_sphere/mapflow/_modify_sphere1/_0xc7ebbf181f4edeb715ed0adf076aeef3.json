@@ -1,0 +1,19 @@
+[
+    [
+        "in_surface",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/apply_surface_affine/mapflow/_apply_surface_affine1/rh.sphere_converted_xformed.surf.gii",
+            "ff27a60a55e7f3c8b29044f913c3bae7"
+        ]
+    ],
+    [
+        "radius",
+        100
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_surface"
+        ]
+    ]
+]

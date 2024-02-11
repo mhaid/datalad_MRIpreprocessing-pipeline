@@ -1,0 +1,23 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_first_pass/sub-LJ001_ses-LJ001MR1_task-judge_bold_average_corrected_brain_mask.nii.gz",
+            "844f15d023a8ca90119b4c041a88962a"
+        ]
+    ],
+    [
+        "iterations",
+        1
+    ],
+    [
+        "radius",
+        "6.0000000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

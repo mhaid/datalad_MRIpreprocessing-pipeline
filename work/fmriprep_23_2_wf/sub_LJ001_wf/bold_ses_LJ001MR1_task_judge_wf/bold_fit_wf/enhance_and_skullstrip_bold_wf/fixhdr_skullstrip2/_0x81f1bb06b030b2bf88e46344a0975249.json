@@ -1,0 +1,22 @@
+[
+    [
+        "hdr_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/sub-LJ001_ses-LJ001MR1_task-judge_bold_average.nii.gz",
+            "91f1602770b51a4c4d58d690b140d8b2"
+        ]
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_second_pass/uni_xform_mask.nii.gz",
+            "89a2dc8ef2a1e8cf3933b965e1e81c5e"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

@@ -1,1 +1,0 @@
-recon-all -openmp 3 -subjid sub-LJ002 -sd /tmp/sourcedata/freesurfer -gcareg

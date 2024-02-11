@@ -1,0 +1,26 @@
+[
+    [
+        "filenames",
+        [
+            [
+                "/tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.midthickness",
+                "5f7c4f5aa4cbd008d24a9e1efad9e6f9"
+            ],
+            [
+                "/tmp/sourcedata/freesurfer/sub-LJ001/surf/lh.midthickness",
+                "5c120b25e0addf592a5c292e6abd2a24"
+            ]
+        ]
+    ],
+    [
+        "function_str",
+        "def _extract_fs_fields(filenames: str | list[str]) -> tuple[str, str]:\n    from pathlib import Path\n\n    if isinstance(filenames, str):\n        filenames = [filenames]\n    paths = [Path(fn) for fn in filenames]\n    sub_dir = paths[0].parent.parent\n    subjects_dir, subject_id = sub_dir.parent, sub_dir.name\n    assert all(path == subjects_dir / subject_id / 'surf' / path.name for path in paths)\n    return str(subjects_dir), subject_id\n"
+    ],
+    [
+        "needed_outputs",
+        [
+            "subject_id",
+            "subjects_dir"
+        ]
+    ]
+]

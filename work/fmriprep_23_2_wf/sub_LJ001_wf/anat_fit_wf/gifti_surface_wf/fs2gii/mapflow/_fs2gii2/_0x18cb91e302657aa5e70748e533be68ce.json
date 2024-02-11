@@ -1,0 +1,27 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/sourcedata/freesurfer/sub-LJ001/surf/lh.pial",
+            "e3ab8b6007630743bbad1ccd70db0a83"
+        ]
+    ],
+    [
+        "out_datatype",
+        "gii"
+    ],
+    [
+        "subjects_dir",
+        "/opt/freesurfer/subjects"
+    ],
+    [
+        "to_scanner",
+        true
+    ],
+    [
+        "needed_outputs",
+        [
+            "converted"
+        ]
+    ]
+]

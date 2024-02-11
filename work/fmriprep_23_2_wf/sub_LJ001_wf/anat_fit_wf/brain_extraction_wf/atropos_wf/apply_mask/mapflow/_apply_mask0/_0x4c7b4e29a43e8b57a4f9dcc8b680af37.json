@@ -1,0 +1,26 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w_noise_corrected_corrected_xform.nii.gz",
+            "d1f492a187f13cfc226e91c3fd3baea1"
+        ]
+    ],
+    [
+        "in_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/09_relabel_wm_mask_xform.nii.gz",
+            "e45a1f3bd47e98343eb06e677ea9bc68"
+        ]
+    ],
+    [
+        "threshold",
+        "0.5000000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

@@ -1,0 +1,29 @@
+[
+    [
+        "sphere_in",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs0/lh.sphere.reg_converted.gii",
+            "51cb0f03b8853c4fe20e617690c9aaf5"
+        ]
+    ],
+    [
+        "sphere_project_to",
+        [
+            "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/smriprep/data/atlases/fs_L/fsaverage.L.sphere.164k_fs_L.surf.gii",
+            "a0191b2c436e52dfce5ed0f0cd2ec0c2"
+        ]
+    ],
+    [
+        "sphere_unproject_from",
+        [
+            "/opt/conda/envs/fmriprep/lib/python3.10/site-packages/smriprep/data/atlases/fs_L/fs_L-to-fs_LR_fsaverage.L_LR.spherical_std.164k_fs_L.surf.gii",
+            "a15aca646300e3a2df5b987f8f50260a"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "sphere_out"
+        ]
+    ]
+]

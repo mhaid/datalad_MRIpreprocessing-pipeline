@@ -1,0 +1,6 @@
+{
+  "RawSources": [
+    "/tmp/sourcedata/rawdata-bids/sub-LJ001/ses-LJ001MR1/anat/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}

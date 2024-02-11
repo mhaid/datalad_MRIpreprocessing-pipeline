@@ -1,0 +1,23 @@
+[
+    [
+        "components_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acompcor/acompcor.tsv",
+            "f37562dc0e6605bfc55fad87284ed056"
+        ]
+    ],
+    [
+        "metadata_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acompcor/component_metadata.tsv",
+            "aaaa295f14aba8128629f1ef8cd8492b"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "components_file",
+            "metadata_file"
+        ]
+    ]
+]

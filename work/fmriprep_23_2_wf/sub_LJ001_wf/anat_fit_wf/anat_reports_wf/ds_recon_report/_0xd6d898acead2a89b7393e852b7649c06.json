@@ -1,0 +1,36 @@
+[
+    [
+        "base_directory",
+        "/tmp"
+    ],
+    [
+        "check_hdr",
+        true
+    ],
+    [
+        "datatype",
+        "figures"
+    ],
+    [
+        "desc",
+        "reconall"
+    ],
+    [
+        "in_file",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/recon_report/report.svg",
+                "02328eb7a6741c45b88df0b4449fd34b"
+            ]
+        ]
+    ],
+    [
+        "source_file",
+        [
+            [
+                "/tmp/sourcedata/rawdata-bids/sub-LJ001/ses-LJ001MR1/anat/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w.nii.gz",
+                "358660474a383d528769acd35a02416d"
+            ]
+        ]
+    ]
+]

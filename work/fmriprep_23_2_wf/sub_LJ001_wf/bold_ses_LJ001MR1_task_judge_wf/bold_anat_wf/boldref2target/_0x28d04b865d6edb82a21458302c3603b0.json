@@ -1,0 +1,27 @@
+[
+    [
+        "axis",
+        "vstack"
+    ],
+    [
+        "in1",
+        [
+            "/tmp/sub-LJ001/ses-LJ001MR1/func/sub-LJ001_ses-LJ001MR1_task-judge_from-boldref_to-T1w_mode-image_desc-coreg_xfm.txt",
+            "d6ca54f0d91df31274d7eac7138f2b7f"
+        ]
+    ],
+    [
+        "no_flatten",
+        false
+    ],
+    [
+        "ravel_inputs",
+        false
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

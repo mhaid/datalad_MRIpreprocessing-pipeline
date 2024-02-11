@@ -2302,17 +2302,12 @@
             "value": 1
         },
         {
-            "source": 130,
-            "target": 133,
-            "value": 1
-        },
-        {
-            "source": 133,
+            "source": 11,
             "target": 175,
             "value": 1
         },
         {
-            "source": 11,
+            "source": 133,
             "target": 175,
             "value": 1
         },
@@ -2332,12 +2327,57 @@
             "value": 1
         },
         {
-            "source": 211,
-            "target": 224,
+            "source": 130,
+            "target": 133,
+            "value": 1
+        },
+        {
+            "source": 225,
+            "target": 239,
+            "value": 1
+        },
+        {
+            "source": 42,
+            "target": 239,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 135,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 135,
+            "value": 1
+        },
+        {
+            "source": 132,
+            "target": 135,
+            "value": 1
+        },
+        {
+            "source": 239,
+            "target": 249,
+            "value": 1
+        },
+        {
+            "source": 71,
+            "target": 249,
+            "value": 1
+        },
+        {
+            "source": 45,
+            "target": 249,
             "value": 1
         },
         {
             "source": 135,
+            "target": 224,
+            "value": 1
+        },
+        {
+            "source": 211,
             "target": 224,
             "value": 1
         },
@@ -2347,12 +2387,12 @@
             "value": 1
         },
         {
-            "source": 211,
+            "source": 135,
             "target": 221,
             "value": 1
         },
         {
-            "source": 135,
+            "source": 211,
             "target": 221,
             "value": 1
         },
@@ -2372,12 +2412,12 @@
             "value": 1
         },
         {
-            "source": 211,
+            "source": 135,
             "target": 222,
             "value": 1
         },
         {
-            "source": 135,
+            "source": 211,
             "target": 222,
             "value": 1
         },
@@ -2387,22 +2427,22 @@
             "value": 1
         },
         {
-            "source": 12,
-            "target": 256,
-            "value": 1
-        },
-        {
             "source": 249,
             "target": 256,
             "value": 1
         },
         {
-            "source": 211,
-            "target": 223,
+            "source": 12,
+            "target": 256,
             "value": 1
         },
         {
             "source": 135,
+            "target": 223,
+            "value": 1
+        },
+        {
+            "source": 211,
             "target": 223,
             "value": 1
         },
@@ -2572,81 +2612,6 @@
             "value": 1
         },
         {
-            "source": 225,
-            "target": 239,
-            "value": 1
-        },
-        {
-            "source": 42,
-            "target": 239,
-            "value": 1
-        },
-        {
-            "source": 12,
-            "target": 135,
-            "value": 1
-        },
-        {
-            "source": 24,
-            "target": 135,
-            "value": 1
-        },
-        {
-            "source": 132,
-            "target": 135,
-            "value": 1
-        },
-        {
-            "source": 71,
-            "target": 249,
-            "value": 1
-        },
-        {
-            "source": 239,
-            "target": 249,
-            "value": 1
-        },
-        {
-            "source": 45,
-            "target": 249,
-            "value": 1
-        },
-        {
-            "source": 13,
-            "target": 25,
-            "value": 1
-        },
-        {
-            "source": 212,
-            "target": 228,
-            "value": 1
-        },
-        {
-            "source": 26,
-            "target": 228,
-            "value": 1
-        },
-        {
-            "source": 174,
-            "target": 228,
-            "value": 1
-        },
-        {
-            "source": 252,
-            "target": 257,
-            "value": 1
-        },
-        {
-            "source": 13,
-            "target": 257,
-            "value": 1
-        },
-        {
-            "source": 15,
-            "target": 257,
-            "value": 1
-        },
-        {
             "source": 25,
             "target": 212,
             "value": 1
@@ -2692,11 +2657,6 @@
             "value": 1
         },
         {
-            "source": 228,
-            "target": 242,
-            "value": 1
-        },
-        {
             "source": 26,
             "target": 242,
             "value": 1
@@ -2705,1701 +2665,1741 @@
             "source": 227,
             "target": 242,
             "value": 1
+        },
+        {
+            "source": 228,
+            "target": 242,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 25,
+            "value": 1
+        },
+        {
+            "source": 212,
+            "target": 228,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 228,
+            "value": 1
+        },
+        {
+            "source": 174,
+            "target": 228,
+            "value": 1
+        },
+        {
+            "source": 252,
+            "target": 257,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 257,
+            "value": 1
+        },
+        {
+            "source": 15,
+            "target": 257,
+            "value": 1
         }
     ],
     "maxN": 281,
     "nodes": [
         {
             "group": 1,
-            "name": "0_fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8",
-            "report": "/fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8/_report/report.rst",
-            "result": "/fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8/result_fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8.pklz"
+            "name": "0_fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec",
+            "report": "/fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec/_report/report.rst",
+            "result": "/fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec/result_fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec.pklz"
         },
         {
             "group": 1,
             "name": "1_bidssrc",
-            "report": "/sub_LJ002_wf/bidssrc/_report/report.rst",
-            "result": "/sub_LJ002_wf/bidssrc/result_bidssrc.pklz"
+            "report": "/sub_LJ001_wf/bidssrc/_report/report.rst",
+            "result": "/sub_LJ001_wf/bidssrc/result_bidssrc.pklz"
         },
         {
             "group": 1,
             "name": "2_about",
-            "report": "/sub_LJ002_wf/about/_report/report.rst",
-            "result": "/sub_LJ002_wf/about/result_about.pklz"
+            "report": "/sub_LJ001_wf/about/_report/report.rst",
+            "result": "/sub_LJ001_wf/about/result_about.pklz"
         },
         {
             "group": 1,
             "name": "3_res_tmpl",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/res_tmpl/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/res_tmpl/result_res_tmpl.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/res_tmpl/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/res_tmpl/result_res_tmpl.pklz"
         },
         {
             "group": 1,
             "name": "4_full_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/full_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/full_wm/result_full_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/full_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/full_wm/result_full_wm.pklz"
         },
         {
             "group": 1,
             "name": "5_lap_tmpl",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/lap_tmpl/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/lap_tmpl/result_lap_tmpl.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/lap_tmpl/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/lap_tmpl/result_lap_tmpl.pklz"
         },
         {
             "group": 1,
             "name": "6_val_bold",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/val_bold/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/val_bold/result_val_bold.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/val_bold/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/val_bold/result_val_bold.pklz"
         },
         {
             "group": 1,
             "name": "7_get_dummy",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/get_dummy/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/get_dummy/result_get_dummy.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/get_dummy/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/get_dummy/result_get_dummy.pklz"
         },
         {
             "group": 1,
             "name": "8_raw_sources",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/raw_sources/result_raw_sources.pklz"
         },
         {
             "group": 1,
             "name": "9_raw_sources",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/raw_sources/result_raw_sources.pklz"
         },
         {
             "group": 1,
             "name": "10_bold_source",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_source/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_source/result_bold_source.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_source/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_source/result_bold_source.pklz"
         },
         {
             "group": 1,
             "name": "11_split_desc",
-            "report": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/split_desc/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/split_desc/result_split_desc.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/split_desc/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/split_desc/result_split_desc.pklz"
         },
         {
             "group": 1,
             "name": "12_spacesource",
-            "report": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/_report/report.rst",
-            "result": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/result_spacesource.pklz"
+            "report": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/_report/report.rst",
+            "result": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/result_spacesource.pklz"
         },
         {
             "group": 1,
             "name": "13_spacesource",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/result_spacesource.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/spacesource/result_spacesource.pklz"
         },
         {
             "group": 1,
             "name": "14_bids_info",
-            "report": "/sub_LJ002_wf/bids_info/_report/report.rst",
-            "result": "/sub_LJ002_wf/bids_info/result_bids_info.pklz"
+            "report": "/sub_LJ001_wf/bids_info/_report/report.rst",
+            "result": "/sub_LJ001_wf/bids_info/result_bids_info.pklz"
         },
         {
             "group": 1,
             "name": "15_anat_ref_dimensions",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/anat_ref_dimensions/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/anat_ref_dimensions/result_anat_ref_dimensions.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/anat_ref_dimensions/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/anat_ref_dimensions/result_anat_ref_dimensions.pklz"
         },
         {
             "group": 1,
             "name": "16_ds_report_about",
-            "report": "/sub_LJ002_wf/ds_report_about/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_report_about/result_ds_report_about.pklz"
+            "report": "/sub_LJ001_wf/ds_report_about/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_report_about/result_ds_report_about.pklz"
         },
         {
             "group": 1,
             "name": "17_mrg_tmpl",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/mrg_tmpl/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/mrg_tmpl/result_mrg_tmpl.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/mrg_tmpl/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/mrg_tmpl/result_mrg_tmpl.pklz"
         },
         {
             "group": 1,
             "name": "18_ds_report_validation",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_validation/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_validation/result_ds_report_validation.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_validation/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_validation/result_ds_report_validation.pklz"
         },
         {
             "group": 1,
             "name": "19_gen_avg",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/result_gen_avg.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/result_gen_avg.pklz"
         },
         {
             "group": 1,
             "name": "20_calc_dummy_scans",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/calc_dummy_scans/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/calc_dummy_scans/result_calc_dummy_scans.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/calc_dummy_scans/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/hmc_boldref_wf/calc_dummy_scans/result_calc_dummy_scans.pklz"
         },
         {
             "group": 1,
             "name": "21_validate_bold",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/validate_bold/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/validate_bold/result_validate_bold.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/validate_bold/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/validate_bold/result_validate_bold.pklz"
         },
         {
             "group": 1,
             "name": "22_tf_select",
-            "report": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/tf_select/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/tf_select/result_tf_select.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/tf_select/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/tf_select/result_tf_select.pklz"
         },
         {
             "group": 1,
             "name": "23_gen_tplid",
-            "report": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/_report/report.rst",
-            "result": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/result_gen_tplid.pklz"
+            "report": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/_report/report.rst",
+            "result": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/result_gen_tplid.pklz"
         },
         {
             "group": 1,
             "name": "24_select_tpl",
-            "report": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/_report/report.rst",
-            "result": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/result_select_tpl.pklz"
+            "report": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/_report/report.rst",
+            "result": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/result_select_tpl.pklz"
         },
         {
             "group": 1,
             "name": "25_gen_tplid",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/result_gen_tplid.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_tplid/result_gen_tplid.pklz"
         },
         {
             "group": 1,
             "name": "26_select_tpl",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/result_select_tpl.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_tpl/result_select_tpl.pklz"
         },
         {
             "group": 1,
             "name": "27_summary",
-            "report": "/sub_LJ002_wf/summary/_report/report.rst",
-            "result": "/sub_LJ002_wf/summary/result_summary.pklz"
+            "report": "/sub_LJ001_wf/summary/_report/report.rst",
+            "result": "/sub_LJ001_wf/summary/result_summary.pklz"
         },
         {
             "group": 1,
             "name": "28_fs_isrunning",
-            "report": "/sub_LJ002_wf/anat_fit_wf/fs_isrunning/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/fs_isrunning/result_fs_isrunning.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/fs_isrunning/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/fs_isrunning/result_fs_isrunning.pklz"
         },
         {
             "group": 1,
             "name": "29_denoise",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/denoise/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/denoise/result_denoise.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/denoise/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/denoise/result_denoise.pklz"
         },
         {
             "group": 1,
             "name": "30_raw_sources",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_t1w_mask_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_t1w_mask_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_t1w_mask_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_t1w_mask_wf/raw_sources/result_raw_sources.pklz"
         },
         {
             "group": 1,
             "name": "31_raw_sources",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_ribbon_mask_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_ribbon_mask_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_ribbon_mask_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_ribbon_mask_wf/raw_sources/result_raw_sources.pklz"
         },
         {
             "group": 1,
             "name": "32_t1w_conform_check",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/t1w_conform_check/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/t1w_conform_check/result_t1w_conform_check.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/t1w_conform_check/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/t1w_conform_check/result_t1w_conform_check.pklz"
         },
         {
             "group": 1,
             "name": "33_fmapref_buffer",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/fmapref_buffer/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/fmapref_buffer/result_fmapref_buffer.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/fmapref_buffer/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/fmapref_buffer/result_fmapref_buffer.pklz"
         },
         {
             "group": 1,
             "name": "34_ds_boldref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/ds_boldref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/ds_boldref/result_ds_boldref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/ds_boldref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_boldref_wf/ds_boldref/result_ds_boldref.pklz"
         },
         {
             "group": 1,
             "name": "35_mcflirt",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/mcflirt/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/mcflirt/result_mcflirt.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/mcflirt/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/mcflirt/result_mcflirt.pklz"
         },
         {
             "group": 1,
             "name": "36_slice_timing_correction",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_stc_wf/slice_timing_correction/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_stc_wf/slice_timing_correction/result_slice_timing_correction.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_stc_wf/slice_timing_correction/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_stc_wf/slice_timing_correction/result_slice_timing_correction.pklz"
         },
         {
             "group": 1,
             "name": "37_ds_report_summary",
-            "report": "/sub_LJ002_wf/ds_report_summary/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_report_summary/result_ds_report_summary.pklz"
+            "report": "/sub_LJ001_wf/ds_report_summary/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_report_summary/result_ds_report_summary.pklz"
         },
         {
             "group": 1,
             "name": "38_anat_conform",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/anat_conform/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/anat_conform/result_anat_conform.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/anat_conform/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/anat_conform/result_anat_conform.pklz"
         },
         {
             "group": 1,
             "name": "39_ds_t1w_conform_report",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/ds_t1w_conform_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/ds_t1w_conform_report/result_ds_t1w_conform_report.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/ds_t1w_conform_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/ds_t1w_conform_report/result_ds_t1w_conform_report.pklz"
         },
         {
             "group": 1,
             "name": "40_init_aff",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/init_aff/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/init_aff/result_init_aff.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/init_aff/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/init_aff/result_init_aff.pklz"
         },
         {
             "group": 1,
             "name": "41_raw_sources",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/raw_sources/result_raw_sources.pklz"
         },
         {
             "group": 1,
             "name": "42_fsl2itk",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/fsl2itk/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/fsl2itk/result_fsl2itk.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/fsl2itk/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/fsl2itk/result_fsl2itk.pklz"
         },
         {
             "group": 1,
             "name": "43_normalize_motion",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/normalize_motion/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/normalize_motion/result_normalize_motion.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/normalize_motion/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_hmc_wf/normalize_motion/result_normalize_motion.pklz"
         },
         {
             "group": 1,
             "name": "44_add_rmsd_header",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_rmsd_header/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_rmsd_header/result_add_rmsd_header.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_rmsd_header/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_rmsd_header/result_add_rmsd_header.pklz"
         },
         {
             "group": 1,
             "name": "45_copy_xform",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_stc_wf/copy_xform/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/bold_stc_wf/copy_xform/result_copy_xform.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_stc_wf/copy_xform/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_stc_wf/copy_xform/result_copy_xform.pklz"
         },
         {
             "group": 1,
             "name": "46_get1st",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/get1st/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_template_wf/get1st/result_get1st.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/get1st/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_template_wf/get1st/result_get1st.pklz"
         },
         {
             "group": 1,
             "name": "47_norm",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/norm/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/norm/result_norm.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/norm/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/norm/result_norm.pklz"
         },
         {
             "group": 1,
             "name": "48_ds_xforms",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/ds_xforms/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/ds_xforms/result_ds_xforms.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/ds_xforms/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_hmc_wf/ds_xforms/result_ds_xforms.pklz"
         },
         {
             "group": 1,
             "name": "49_fdisp",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/fdisp/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/fdisp/result_fdisp.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/fdisp/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/fdisp/result_fdisp.pklz"
         },
         {
             "group": 1,
             "name": "50_add_motion_headers",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_motion_headers/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_motion_headers/result_add_motion_headers.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_motion_headers/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_motion_headers/result_add_motion_headers.pklz"
         },
         {
             "group": 1,
             "name": "51_anat_validate",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_validate/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_validate/result_anat_validate.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_validate/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_validate/result_anat_validate.pklz"
         },
         {
             "group": 1,
             "name": "52_map_brainmask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/map_brainmask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/map_brainmask/result_map_brainmask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/map_brainmask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/map_brainmask/result_map_brainmask.pklz"
         },
         {
             "group": 1,
             "name": "53_truncate_images",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/truncate_images/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/truncate_images/result_truncate_images.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/truncate_images/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/truncate_images/result_truncate_images.pklz"
         },
         {
             "group": 1,
             "name": "54_recon_config",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/recon_config/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/recon_config/result_recon_config.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/recon_config/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/recon_config/result_recon_config.pklz"
         },
         {
             "group": 1,
             "name": "55_fov_check",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fov_check/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fov_check/result_fov_check.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/fov_check/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/fov_check/result_fov_check.pklz"
         },
         {
             "group": 1,
             "name": "56_fix_header",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fix_header/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fix_header/result_fix_header.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fix_header/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fix_header/result_fix_header.pklz"
         },
         {
             "group": 1,
             "name": "57_inu_n4",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4/result_inu_n4.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/inu_n4/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/inu_n4/result_inu_n4.pklz"
         },
         {
             "group": 1,
             "name": "58_autorecon1",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon1/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon1/result_autorecon1.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon1/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon1/result_autorecon1.pklz"
         },
         {
             "group": 1,
             "name": "59_n4_correct",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/n4_correct/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/n4_correct/result_n4_correct.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/n4_correct/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/n4_correct/result_n4_correct.pklz"
         },
         {
             "group": 1,
             "name": "60_res_target",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/res_target/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/res_target/result_res_target.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/res_target/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/res_target/result_res_target.pklz"
         },
         {
             "group": 1,
             "name": "61_lap_target",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/lap_target/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/lap_target/result_lap_target.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/lap_target/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/lap_target/result_lap_target.pklz"
         },
         {
             "group": 1,
             "name": "62_fsnative2t1w_xfm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/result_fsnative2t1w_xfm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/fsnative2t1w_xfm/result_fsnative2t1w_xfm.pklz"
         },
         {
             "group": 1,
             "name": "63_skullstrip_first_pass",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_first_pass/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_first_pass/result_skullstrip_first_pass.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_first_pass/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_first_pass/result_skullstrip_first_pass.pklz"
         },
         {
             "group": 1,
             "name": "64_ds_boldref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/ds_boldref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/ds_boldref/result_ds_boldref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/ds_boldref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_coreg_boldref_wf/ds_boldref/result_ds_boldref.pklz"
         },
         {
             "group": 1,
             "name": "65_init_aff",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/init_aff/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/init_aff/result_init_aff.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/init_aff/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/init_aff/result_init_aff.pklz"
         },
         {
             "group": 1,
             "name": "66_mrg_target",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/mrg_target/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/mrg_target/result_mrg_target.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/mrg_target/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/mrg_target/result_mrg_target.pklz"
         },
         {
             "group": 1,
             "name": "67_lta2itk",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_fs_registration_wf/lta2itk/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_fs_registration_wf/lta2itk/result_lta2itk.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_fs_registration_wf/lta2itk/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_fs_registration_wf/lta2itk/result_lta2itk.pklz"
         },
         {
             "group": 1,
             "name": "68_first_dilate",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_dilate/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_dilate/result_first_dilate.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_dilate/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_dilate/result_first_dilate.pklz"
         },
         {
             "group": 1,
             "name": "69_raw_sources",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/raw_sources/result_raw_sources.pklz"
         },
         {
             "group": 1,
             "name": "70_boldref_bold",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/boldref_bold/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_native_wf/boldref_bold/result_boldref_bold.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/boldref_bold/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/boldref_bold/result_boldref_bold.pklz"
         },
         {
             "group": 1,
             "name": "71_gen_ref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/result_gen_ref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/result_gen_ref.pklz"
         },
         {
             "group": 1,
             "name": "72_norm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/norm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/norm/result_norm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/norm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/norm/result_norm.pklz"
         },
         {
             "group": 1,
             "name": "73_ds_t1w_fsnative",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_fs_registration_wf/ds_t1w_fsnative/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_fs_registration_wf/ds_t1w_fsnative/result_ds_t1w_fsnative.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_fs_registration_wf/ds_t1w_fsnative/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_fs_registration_wf/ds_t1w_fsnative/result_ds_t1w_fsnative.pklz"
         },
         {
             "group": 1,
             "name": "74_ds_fsnative_t1w",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_fs_registration_wf/ds_fsnative_t1w/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_fs_registration_wf/ds_fsnative_t1w/result_ds_fsnative_t1w.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_fs_registration_wf/ds_fsnative_t1w/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_fs_registration_wf/ds_fsnative_t1w/result_ds_fsnative_t1w.pklz"
         },
         {
             "group": 1,
             "name": "75_first_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_mask/result_first_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_mask/result_first_mask.pklz"
         },
         {
             "group": 1,
             "name": "76_map_brainmask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/map_brainmask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/map_brainmask/result_map_brainmask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/map_brainmask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/map_brainmask/result_map_brainmask.pklz"
         },
         {
             "group": 1,
             "name": "77_map_wmmask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/map_wmmask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/map_wmmask/result_map_wmmask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/map_wmmask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/map_wmmask/result_map_wmmask.pklz"
         },
         {
             "group": 1,
             "name": "78_unifize",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/unifize/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/unifize/result_unifize.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/unifize/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/unifize/result_unifize.pklz"
         },
         {
             "group": 1,
             "name": "79_thr_brainmask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/thr_brainmask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/thr_brainmask/result_thr_brainmask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/thr_brainmask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/thr_brainmask/result_thr_brainmask.pklz"
         },
         {
             "group": 1,
             "name": "80_inu_n4_final",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4_final/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4_final/result_inu_n4_final.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/inu_n4_final/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/inu_n4_final/result_inu_n4_final.pklz"
         },
         {
             "group": 1,
             "name": "81_fixhdr_unifize",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_unifize/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_unifize/result_fixhdr_unifize.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_unifize/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_unifize/result_fixhdr_unifize.pklz"
         },
         {
             "group": 1,
             "name": "82_dil_brainmask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/dil_brainmask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/dil_brainmask/result_dil_brainmask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/dil_brainmask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/dil_brainmask/result_dil_brainmask.pklz"
         },
         {
             "group": 1,
             "name": "83_03_pad_mask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/03_pad_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/03_pad_mask/result_03_pad_mask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/03_pad_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/03_pad_mask/result_03_pad_mask.pklz"
         },
         {
             "group": 1,
             "name": "84_apply_mask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/apply_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/apply_mask/result_apply_mask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/apply_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/apply_mask/result_apply_mask.pklz"
         },
         {
             "group": 1,
             "name": "85_skullstrip_second_pass",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_second_pass/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_second_pass/result_skullstrip_second_pass.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_second_pass/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_second_pass/result_skullstrip_second_pass.pklz"
         },
         {
             "group": 1,
             "name": "86_get_brainmask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/get_brainmask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/get_brainmask/result_get_brainmask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/get_brainmask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/get_brainmask/result_get_brainmask.pklz"
         },
         {
             "group": 1,
             "name": "87_fixhdr_skullstrip2",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_skullstrip2/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_skullstrip2/result_fixhdr_skullstrip2.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_skullstrip2/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_skullstrip2/result_fixhdr_skullstrip2.pklz"
         },
         {
             "group": 1,
             "name": "88_01_atropos",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/result_01_atropos.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/result_01_atropos.pklz"
         },
         {
             "group": 1,
             "name": "89_combine_masks",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/result_combine_masks.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/result_combine_masks.pklz"
         },
         {
             "group": 1,
             "name": "90_02_pad_segm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/02_pad_segm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/02_pad_segm/result_02_pad_segm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/02_pad_segm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/02_pad_segm/result_02_pad_segm.pklz"
         },
         {
             "group": 1,
             "name": "91_match_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/match_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/match_wm/result_match_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/match_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/match_wm/result_match_wm.pklz"
         },
         {
             "group": 1,
             "name": "92_apply_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/apply_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/apply_mask/result_apply_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/apply_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/apply_mask/result_apply_mask.pklz"
         },
         {
             "group": 1,
             "name": "93_dvars",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/dvars/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/dvars/result_dvars.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/dvars/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/dvars/result_dvars.pklz"
         },
         {
             "group": 1,
             "name": "94_tcompcor",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcompcor/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcompcor/result_tcompcor.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/tcompcor/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/tcompcor/result_tcompcor.pklz"
         },
         {
             "group": 1,
             "name": "95_04_sel_labels",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/04_sel_labels/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/04_sel_labels/result_04_sel_labels.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/04_sel_labels/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/04_sel_labels/result_04_sel_labels.pklz"
         },
         {
             "group": 1,
             "name": "96_overlap",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/overlap/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/overlap/result_overlap.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/overlap/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/overlap/result_overlap.pklz"
         },
         {
             "group": 1,
             "name": "97_add_dvars_header",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_dvars_header/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_dvars_header/result_add_dvars_header.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_dvars_header/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_dvars_header/result_add_dvars_header.pklz"
         },
         {
             "group": 1,
             "name": "98_add_std_dvars_header",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_std_dvars_header/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/add_std_dvars_header/result_add_std_dvars_header.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_std_dvars_header/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/add_std_dvars_header/result_add_std_dvars_header.pklz"
         },
         {
             "group": 1,
             "name": "99_tcc_metadata_filter",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_filter/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_filter/result_tcc_metadata_filter.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_filter/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_filter/result_tcc_metadata_filter.pklz"
         },
         {
             "group": 1,
             "name": "100_05_get_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/05_get_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/05_get_wm/result_05_get_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/05_get_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/05_get_wm/result_05_get_wm.pklz"
         },
         {
             "group": 1,
             "name": "101_06_get_gm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/06_get_gm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/06_get_gm/result_06_get_gm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/06_get_gm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/06_get_gm/result_06_get_gm.pklz"
         },
         {
             "group": 1,
             "name": "102_10_me_csf",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/10_me_csf/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/10_me_csf/result_10_me_csf.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/10_me_csf/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/10_me_csf/result_10_me_csf.pklz"
         },
         {
             "group": 1,
             "name": "103_27_depad_csf",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/27_depad_csf/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/27_depad_csf/result_27_depad_csf.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/27_depad_csf/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/27_depad_csf/result_27_depad_csf.pklz"
         },
         {
             "group": 1,
             "name": "104_sel_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/sel_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/sel_wm/result_sel_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/sel_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/sel_wm/result_sel_wm.pklz"
         },
         {
             "group": 1,
             "name": "105_tcc_metadata_fmt",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_fmt/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_fmt/result_tcc_metadata_fmt.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_fmt/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/tcc_metadata_fmt/result_tcc_metadata_fmt.pklz"
         },
         {
             "group": 1,
             "name": "106_09_relabel_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/09_relabel_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/09_relabel_wm/result_09_relabel_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/09_relabel_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/09_relabel_wm/result_09_relabel_wm.pklz"
         },
         {
             "group": 1,
             "name": "107_07_fill_gm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/07_fill_gm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/07_fill_gm/result_07_fill_gm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/07_fill_gm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/07_fill_gm/result_07_fill_gm.pklz"
         },
         {
             "group": 1,
             "name": "108_copy_xform_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform_wm/result_copy_xform_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform_wm/result_copy_xform_wm.pklz"
         },
         {
             "group": 1,
             "name": "109_26_depad_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/26_depad_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/26_depad_wm/result_26_depad_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/26_depad_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/26_depad_wm/result_26_depad_wm.pklz"
         },
         {
             "group": 1,
             "name": "110_08_mult_gm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/08_mult_gm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/08_mult_gm/result_08_mult_gm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/08_mult_gm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/08_mult_gm/result_08_mult_gm.pklz"
         },
         {
             "group": 1,
             "name": "111_apply_wm_prior",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_wm_prior/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_wm_prior/result_apply_wm_prior.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_wm_prior/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_wm_prior/result_apply_wm_prior.pklz"
         },
         {
             "group": 1,
             "name": "112_11_add_gm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/11_add_gm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/11_add_gm/result_11_add_gm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/11_add_gm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/11_add_gm/result_11_add_gm.pklz"
         },
         {
             "group": 1,
             "name": "113_inu_n4_final",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/inu_n4_final/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/inu_n4_final/result_inu_n4_final.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/inu_n4_final/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/inu_n4_final/result_inu_n4_final.pklz"
         },
         {
             "group": 1,
             "name": "114_12_relabel_gm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/12_relabel_gm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/12_relabel_gm/result_12_relabel_gm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/12_relabel_gm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/12_relabel_gm/result_12_relabel_gm.pklz"
         },
         {
             "group": 1,
             "name": "115_13_add_gm_wm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/13_add_gm_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/13_add_gm_wm/result_13_add_gm_wm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/13_add_gm_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/13_add_gm_wm/result_13_add_gm_wm.pklz"
         },
         {
             "group": 1,
             "name": "116_25_depad_gm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/25_depad_gm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/25_depad_gm/result_25_depad_gm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/25_depad_gm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/25_depad_gm/result_25_depad_gm.pklz"
         },
         {
             "group": 1,
             "name": "117_14_sel_labels2",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/14_sel_labels2/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/14_sel_labels2/result_14_sel_labels2.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/14_sel_labels2/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/14_sel_labels2/result_14_sel_labels2.pklz"
         },
         {
             "group": 1,
             "name": "118_24_depad_segm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/24_depad_segm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/24_depad_segm/result_24_depad_segm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/24_depad_segm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/24_depad_segm/result_24_depad_segm.pklz"
         },
         {
             "group": 1,
             "name": "119_merge_tpms",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/merge_tpms/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/merge_tpms/result_merge_tpms.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/merge_tpms/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/merge_tpms/result_merge_tpms.pklz"
         },
         {
             "group": 1,
             "name": "120_15_add_7",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/15_add_7/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/15_add_7/result_15_add_7.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/15_add_7/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/15_add_7/result_15_add_7.pklz"
         },
         {
             "group": 1,
             "name": "121_16_me_7",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/16_me_7/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/16_me_7/result_16_me_7.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/16_me_7/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/16_me_7/result_16_me_7.pklz"
         },
         {
             "group": 1,
             "name": "122_17_comp_7",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/17_comp_7/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/17_comp_7/result_17_comp_7.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/17_comp_7/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/17_comp_7/result_17_comp_7.pklz"
         },
         {
             "group": 1,
             "name": "123_18_md_7",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/18_md_7/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/18_md_7/result_18_md_7.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/18_md_7/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/18_md_7/result_18_md_7.pklz"
         },
         {
             "group": 1,
             "name": "124_19_fill_7",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/19_fill_7/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/19_fill_7/result_19_fill_7.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/19_fill_7/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/19_fill_7/result_19_fill_7.pklz"
         },
         {
             "group": 1,
             "name": "125_20_add_7_2",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/20_add_7_2/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/20_add_7_2/result_20_add_7_2.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/20_add_7_2/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/20_add_7_2/result_20_add_7_2.pklz"
         },
         {
             "group": 1,
             "name": "126_21_md_7_2",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/21_md_7_2/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/21_md_7_2/result_21_md_7_2.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/21_md_7_2/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/21_md_7_2/result_21_md_7_2.pklz"
         },
         {
             "group": 1,
             "name": "127_22_me_7_2",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/22_me_7_2/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/22_me_7_2/result_22_me_7_2.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/22_me_7_2/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/22_me_7_2/result_22_me_7_2.pklz"
         },
         {
             "group": 1,
             "name": "128_23_depad_mask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/23_depad_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/23_depad_mask/result_23_depad_mask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/23_depad_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/23_depad_mask/result_23_depad_mask.pklz"
         },
         {
             "group": 1,
             "name": "129_msk_conform",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/msk_conform/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/msk_conform/result_msk_conform.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/msk_conform/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/msk_conform/result_msk_conform.pklz"
         },
         {
             "group": 1,
             "name": "130_copy_xform",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/result_copy_xform.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/copy_xform/result_copy_xform.pklz"
         },
         {
             "group": 1,
             "name": "131_apply_mask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_mask/result_apply_mask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/apply_mask/result_apply_mask.pklz"
         },
         {
             "group": 1,
             "name": "132_ds_t1w_preproc",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_template_wf/ds_t1w_preproc/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_template_wf/ds_t1w_preproc/result_ds_t1w_preproc.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_template_wf/ds_t1w_preproc/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_template_wf/ds_t1w_preproc/result_ds_t1w_preproc.pklz"
         },
         {
             "group": 1,
             "name": "133_trunc_mov",
-            "report": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/trunc_mov/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/trunc_mov/result_trunc_mov.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/trunc_mov/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/trunc_mov/result_trunc_mov.pklz"
         },
         {
             "group": 1,
             "name": "134_skull_strip_extern",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/skull_strip_extern/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/skull_strip_extern/result_skull_strip_extern.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/skull_strip_extern/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/skull_strip_extern/result_skull_strip_extern.pklz"
         },
         {
             "group": 1,
             "name": "135_gen_ref",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/result_gen_ref.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/gen_ref/result_gen_ref.pklz"
         },
         {
             "group": 1,
             "name": "136_gcareg",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/gcareg/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/gcareg/result_gcareg.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/gcareg/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/gcareg/result_gcareg.pklz"
         },
         {
             "group": 1,
             "name": "137_autorecon2_vol",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon2_vol/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon2_vol/result_autorecon2_vol.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon2_vol/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon2_vol/result_autorecon2_vol.pklz"
         },
         {
             "group": 1,
             "name": "138_autorecon_surfs",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon_surfs/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon_surfs/result_autorecon_surfs.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon_surfs/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon_surfs/result_autorecon_surfs.pklz"
         },
         {
             "group": 1,
             "name": "139_cortribbon",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/cortribbon/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/cortribbon/result_cortribbon.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/cortribbon/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/cortribbon/result_cortribbon.pklz"
         },
         {
             "group": 1,
             "name": "140_parcstats",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/parcstats/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/parcstats/result_parcstats.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/parcstats/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/parcstats/result_parcstats.pklz"
         },
         {
             "group": 1,
             "name": "141_autorecon3",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon3/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon3/result_autorecon3.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon3/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/autorecon_resume_wf/autorecon3/result_autorecon3.pklz"
         },
         {
             "group": 1,
             "name": "142_get_surfaces",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/get_surfaces/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/get_surfaces/result_get_surfaces.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/get_surfaces/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/get_surfaces/result_get_surfaces.pklz"
         },
         {
             "group": 1,
             "name": "143_midthickness",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/midthickness/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/midthickness/result_midthickness.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/midthickness/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/midthickness/result_midthickness.pklz"
         },
         {
             "group": 1,
             "name": "144_save_midthickness",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/save_midthickness/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/save_midthickness/result_save_midthickness.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/save_midthickness/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/save_midthickness/result_save_midthickness.pklz"
         },
         {
             "group": 1,
             "name": "145_sync",
-            "report": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/sync/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/surface_recon_wf/sync/result_sync.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/sync/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/surface_recon_wf/sync/result_sync.pklz"
         },
         {
             "group": 1,
             "name": "146_get_surfaces",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/get_surfaces/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/get_surfaces/result_get_surfaces.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/get_surfaces/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/get_surfaces/result_get_surfaces.pklz"
         },
         {
             "group": 1,
             "name": "147_get_surfaces",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/get_surfaces/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/get_surfaces/result_get_surfaces.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/get_surfaces/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/get_surfaces/result_get_surfaces.pklz"
         },
         {
             "group": 1,
             "name": "148_get_surfaces",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/get_surfaces/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/get_surfaces/result_get_surfaces.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/get_surfaces/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/get_surfaces/result_get_surfaces.pklz"
         },
         {
             "group": 1,
             "name": "149_fs_datasource",
-            "report": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/fs_datasource/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/fs_datasource/result_fs_datasource.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/fs_datasource/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/fs_datasource/result_fs_datasource.pklz"
         },
         {
             "group": 1,
             "name": "150_recon_report",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/recon_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/recon_report/result_recon_report.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/recon_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/recon_report/result_recon_report.pklz"
         },
         {
             "group": 1,
             "name": "151_mri_coreg",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/mri_coreg/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/mri_coreg/result_mri_coreg.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/mri_coreg/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/mri_coreg/result_mri_coreg.pklz"
         },
         {
             "group": 1,
             "name": "152_surface_list",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/surface_list/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/surface_list/result_surface_list.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/surface_list/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/surface_list/result_surface_list.pklz"
         },
         {
             "group": 1,
             "name": "153_surface_list",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/surface_list/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/surface_list/result_surface_list.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/surface_list/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/surface_list/result_surface_list.pklz"
         },
         {
             "group": 1,
             "name": "154_surfmorph_list",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/surfmorph_list/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/surfmorph_list/result_surfmorph_list.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/surfmorph_list/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/surfmorph_list/result_surfmorph_list.pklz"
         },
         {
             "group": 1,
             "name": "155_lta",
-            "report": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/lta/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/lta/result_lta.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/lta/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/lta/result_lta.pklz"
         },
         {
             "group": 1,
             "name": "156_ds_recon_report",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/ds_recon_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/ds_recon_report/result_ds_recon_report.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/ds_recon_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/ds_recon_report/result_ds_recon_report.pklz"
         },
         {
             "group": 1,
             "name": "157_bbregister",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/bbregister/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/bbregister/result_bbregister.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/bbregister/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/bbregister/result_bbregister.pklz"
         },
         {
             "group": 1,
             "name": "158_fs2gii",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fs2gii/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fs2gii/result_fs2gii.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/fs2gii/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/fs2gii/result_fs2gii.pklz"
         },
         {
             "group": 1,
             "name": "159_fs2gii",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/result_fs2gii.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/result_fs2gii.pklz"
         },
         {
             "group": 1,
             "name": "160_morphs2gii",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/result_morphs2gii.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/result_morphs2gii.pklz"
         },
         {
             "group": 1,
             "name": "161_resample",
-            "report": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/resample/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/resample/result_resample.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/resample/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/segs_to_native_aseg/resample/result_resample.pklz"
         },
         {
             "group": 1,
             "name": "162_transforms",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/transforms/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/transforms/result_transforms.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/transforms/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/transforms/result_transforms.pklz"
         },
         {
             "group": 1,
             "name": "163_fix_surfs",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fix_surfs/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fix_surfs/result_fix_surfs.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/fix_surfs/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/fix_surfs/result_fix_surfs.pklz"
         },
         {
             "group": 1,
             "name": "164_fix_surfs",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/result_fix_surfs.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/result_fix_surfs.pklz"
         },
         {
             "group": 1,
             "name": "165_morph_groups",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/morph_groups/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/morph_groups/result_morph_groups.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morph_groups/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morph_groups/result_morph_groups.pklz"
         },
         {
             "group": 1,
             "name": "166_refine",
-            "report": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/refine/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/refinement_wf/refine/result_refine.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/refine/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/refinement_wf/refine/result_refine.pklz"
         },
         {
             "group": 1,
             "name": "167_compare_transforms",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/compare_transforms/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/compare_transforms/result_compare_transforms.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/compare_transforms/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/compare_transforms/result_compare_transforms.pklz"
         },
         {
             "group": 1,
             "name": "168_surface_groups",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/surface_groups/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/surface_groups/result_surface_groups.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/surface_groups/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_surface_wf/surface_groups/result_surface_groups.pklz"
         },
         {
             "group": 1,
             "name": "169_surface_groups",
-            "report": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/surface_groups/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/surface_groups/result_surface_groups.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/surface_groups/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/surface_groups/result_surface_groups.pklz"
         },
         {
             "group": 1,
             "name": "170_ds_thickness",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_morph_wf/ds_thickness/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_morph_wf/ds_thickness/result_ds_thickness.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_morph_wf/ds_thickness/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_morph_wf/ds_thickness/result_ds_thickness.pklz"
         },
         {
             "group": 1,
             "name": "171_ds_sulc",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_morph_wf/ds_sulc/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_morph_wf/ds_sulc/result_ds_sulc.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_morph_wf/ds_sulc/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_morph_wf/ds_sulc/result_ds_sulc.pklz"
         },
         {
             "group": 1,
             "name": "172_invert_sulc",
-            "report": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/invert_sulc/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/invert_sulc/result_invert_sulc.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/invert_sulc/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/invert_sulc/result_invert_sulc.pklz"
         },
         {
             "group": 1,
             "name": "173_applyrefined",
-            "report": "/sub_LJ002_wf/anat_fit_wf/applyrefined/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/applyrefined/result_applyrefined.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/applyrefined/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/applyrefined/result_applyrefined.pklz"
         },
         {
             "group": 1,
             "name": "174_ds_t1w_mask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_t1w_mask_wf/ds_t1w_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_t1w_mask_wf/ds_t1w_mask/result_ds_t1w_mask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_t1w_mask_wf/ds_t1w_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_t1w_mask_wf/ds_t1w_mask/result_ds_t1w_mask.pklz"
         },
         {
             "group": 1,
             "name": "175_registration",
-            "report": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/registration/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/registration/result_registration.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/registration/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/_template_MNI152NLin2009cAsym/registration/result_registration.pklz"
         },
         {
             "group": 1,
             "name": "176_select_transform",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/select_transform/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/select_transform/result_select_transform.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/select_transform/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/select_transform/result_select_transform.pklz"
         },
         {
             "group": 1,
             "name": "177_summary",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/summary/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/summary/result_summary.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/summary/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/summary/result_summary.pklz"
         },
         {
             "group": 1,
             "name": "178_ds_white",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_surfaces_wf/ds_white/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_surfaces_wf/ds_white/result_ds_white.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_surfaces_wf/ds_white/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_surfaces_wf/ds_white/result_ds_white.pklz"
         },
         {
             "group": 1,
             "name": "179_ds_pial",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_surfaces_wf/ds_pial/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_surfaces_wf/ds_pial/result_ds_pial.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_surfaces_wf/ds_pial/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_surfaces_wf/ds_pial/result_ds_pial.pklz"
         },
         {
             "group": 1,
             "name": "180_ds_midthickness",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_surfaces_wf/ds_midthickness/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_surfaces_wf/ds_midthickness/result_ds_midthickness.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_surfaces_wf/ds_midthickness/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_surfaces_wf/ds_midthickness/result_ds_midthickness.pklz"
         },
         {
             "group": 1,
             "name": "181_create_wm_distvol",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_wm_distvol/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_wm_distvol/result_create_wm_distvol.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_ribbon_wf/create_wm_distvol/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_ribbon_wf/create_wm_distvol/result_create_wm_distvol.pklz"
         },
         {
             "group": 1,
             "name": "182_create_pial_distvol",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_pial_distvol/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/create_pial_distvol/result_create_pial_distvol.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_ribbon_wf/create_pial_distvol/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_ribbon_wf/create_pial_distvol/result_create_pial_distvol.pklz"
         },
         {
             "group": 1,
             "name": "183_ds_sphere_reg",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_spheres_wf/ds_sphere_reg/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_spheres_wf/ds_sphere_reg/result_ds_sphere_reg.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_spheres_wf/ds_sphere_reg/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_spheres_wf/ds_sphere_reg/result_ds_sphere_reg.pklz"
         },
         {
             "group": 1,
             "name": "184_ds_sphere",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_spheres_wf/ds_sphere/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_spheres_wf/ds_sphere/result_ds_sphere.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_spheres_wf/ds_sphere/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_spheres_wf/ds_sphere/result_ds_sphere.pklz"
         },
         {
             "group": 1,
             "name": "185_project_unproject",
-            "report": "/sub_LJ002_wf/anat_fit_wf/fsLR_reg_wf/project_unproject/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/fsLR_reg_wf/project_unproject/result_project_unproject.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/fsLR_reg_wf/project_unproject/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/fsLR_reg_wf/project_unproject/result_project_unproject.pklz"
         },
         {
             "group": 1,
             "name": "186_fast",
-            "report": "/sub_LJ002_wf/anat_fit_wf/fast/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/fast/result_fast.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/fast/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/fast/result_fast.pklz"
         },
         {
             "group": 1,
             "name": "187_mask_t1w",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/mask_t1w/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/mask_t1w/result_mask_t1w.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/mask_t1w/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/mask_t1w/result_mask_t1w.pklz"
         },
         {
             "group": 1,
             "name": "188_gen_ref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/gen_ref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/gen_ref/result_gen_ref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/gen_ref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/gen_ref/result_gen_ref.pklz"
         },
         {
             "group": 1,
             "name": "189_outputnode",
-            "report": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/outputnode/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/register_template_wf/outputnode/result_outputnode.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/outputnode/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/register_template_wf/outputnode/result_outputnode.pklz"
         },
         {
             "group": 1,
             "name": "190_merge_ltas",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/merge_ltas/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/merge_ltas/result_merge_ltas.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/merge_ltas/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/merge_ltas/result_merge_ltas.pklz"
         },
         {
             "group": 1,
             "name": "191_ds_report_summary",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_summary/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_summary/result_ds_report_summary.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_summary/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_report_summary/result_ds_report_summary.pklz"
         },
         {
             "group": 1,
             "name": "192_make_ribbon",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/make_ribbon/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_ribbon_wf/make_ribbon/result_make_ribbon.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_ribbon_wf/make_ribbon/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_ribbon_wf/make_ribbon/result_make_ribbon.pklz"
         },
         {
             "group": 1,
             "name": "193_ds_sphere_reg_fsLR",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_fsLR_reg_wf/ds_sphere_reg_fsLR/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_fsLR_reg_wf/ds_sphere_reg_fsLR/result_ds_sphere_reg_fsLR.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_fsLR_reg_wf/ds_sphere_reg_fsLR/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_fsLR_reg_wf/ds_sphere_reg_fsLR/result_ds_sphere_reg_fsLR.pklz"
         },
         {
             "group": 1,
             "name": "194_lut_t1w_dseg",
-            "report": "/sub_LJ002_wf/anat_fit_wf/lut_t1w_dseg/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/lut_t1w_dseg/result_lut_t1w_dseg.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/lut_t1w_dseg/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/lut_t1w_dseg/result_lut_t1w_dseg.pklz"
         },
         {
             "group": 1,
             "name": "195_fast2bids",
-            "report": "/sub_LJ002_wf/anat_fit_wf/fast2bids/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/fast2bids/result_fast2bids.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/fast2bids/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/fast2bids/result_fast2bids.pklz"
         },
         {
             "group": 1,
             "name": "196_template_buffer",
-            "report": "/sub_LJ002_wf/anat_fit_wf/template_buffer/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/template_buffer/result_template_buffer.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/template_buffer/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/template_buffer/result_template_buffer.pklz"
         },
         {
             "group": 1,
             "name": "197_ds_t1w2std_xfm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_template_registration_wf/ds_t1w2std_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_template_registration_wf/ds_t1w2std_xfm/result_ds_t1w2std_xfm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_template_registration_wf/ds_t1w2std_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_template_registration_wf/ds_t1w2std_xfm/result_ds_t1w2std_xfm.pklz"
         },
         {
             "group": 1,
             "name": "198_ds_std2t1w_xfm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_template_registration_wf/ds_std2t1w_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_template_registration_wf/ds_std2t1w_xfm/result_ds_std2t1w_xfm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_template_registration_wf/ds_std2t1w_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_template_registration_wf/ds_std2t1w_xfm/result_ds_std2t1w_xfm.pklz"
         },
         {
             "group": 1,
             "name": "199_concat_xfm",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/concat_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/concat_xfm/result_concat_xfm.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/concat_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/concat_xfm/result_concat_xfm.pklz"
         },
         {
             "group": 1,
             "name": "200_ds_t1w_mask",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_ribbon_mask_wf/ds_t1w_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_ribbon_mask_wf/ds_t1w_mask/result_ds_t1w_mask.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_ribbon_mask_wf/ds_t1w_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_ribbon_mask_wf/ds_t1w_mask/result_ds_t1w_mask.pklz"
         },
         {
             "group": 1,
             "name": "201_regress_affine",
-            "report": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/regress_affine/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/regress_affine/result_regress_affine.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/regress_affine/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/regress_affine/result_regress_affine.pklz"
         },
         {
             "group": 1,
             "name": "202_ds_t1w_dseg",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_dseg_wf/ds_t1w_dseg/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_dseg_wf/ds_t1w_dseg/result_ds_t1w_dseg.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_dseg_wf/ds_t1w_dseg/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_dseg_wf/ds_t1w_dseg/result_ds_t1w_dseg.pklz"
         },
         {
             "group": 1,
             "name": "203_ds_t1w_tpms",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_tpms_wf/ds_t1w_tpms/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_tpms_wf/ds_t1w_tpms/result_ds_t1w_tpms.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_tpms_wf/ds_t1w_tpms/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_tpms_wf/ds_t1w_tpms/result_ds_t1w_tpms.pklz"
         },
         {
             "group": 1,
             "name": "204_anat2std_buffer",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat2std_buffer/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat2std_buffer/result_anat2std_buffer.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat2std_buffer/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat2std_buffer/result_anat2std_buffer.pklz"
         },
         {
             "group": 1,
             "name": "205_std2anat_buffer",
-            "report": "/sub_LJ002_wf/anat_fit_wf/std2anat_buffer/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/std2anat_buffer/result_std2anat_buffer.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/std2anat_buffer/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/std2anat_buffer/result_std2anat_buffer.pklz"
         },
         {
             "group": 1,
             "name": "206_ds_xform",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/ds_xform/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/ds_xform/result_ds_xform.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/ds_xform/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/ds_boldreg_wf/ds_xform/result_ds_xform.pklz"
         },
         {
             "group": 1,
             "name": "207_apply_surface_affine",
-            "report": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/apply_surface_affine/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/apply_surface_affine/result_apply_surface_affine.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/apply_surface_affine/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/apply_surface_affine/result_apply_surface_affine.pklz"
         },
         {
             "group": 1,
             "name": "208_seg_rpt",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/seg_rpt/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/seg_rpt/result_seg_rpt.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/seg_rpt/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/seg_rpt/result_seg_rpt.pklz"
         },
         {
             "group": 1,
             "name": "209_t1w_wm",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_wm/result_t1w_wm.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_wm/result_t1w_wm.pklz"
         },
         {
             "group": 1,
             "name": "210_acc_masks",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_masks/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_masks/result_acc_masks.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_masks/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_masks/result_acc_masks.pklz"
         },
         {
             "group": 1,
             "name": "211_select_xfm",
-            "report": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/result_select_xfm.pklz"
+            "report": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/result_select_xfm.pklz"
         },
         {
             "group": 1,
             "name": "212_select_xfm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/result_select_xfm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/template_iterator_wf/_in_tuple_MNI152NLin2009cAsym.resnative/select_xfm/result_select_xfm.pklz"
         },
         {
             "group": 1,
             "name": "213_select_MNI2009c_xfm",
-            "report": "/sub_LJ002_wf/select_MNI2009c_xfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/select_MNI2009c_xfm/result_select_MNI2009c_xfm.pklz"
+            "report": "/sub_LJ001_wf/select_MNI2009c_xfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/select_MNI2009c_xfm/result_select_MNI2009c_xfm.pklz"
         },
         {
             "group": 1,
             "name": "214_t1w_boldref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_boldref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_boldref/result_t1w_boldref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_boldref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/t1w_boldref/result_t1w_boldref.pklz"
         },
         {
             "group": 1,
             "name": "215_boldref2target",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/boldref2target/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/boldref2target/result_boldref2target.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/boldref2target/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/boldref2target/result_boldref2target.pklz"
         },
         {
             "group": 1,
             "name": "216_t1w_mask_tfm",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/t1w_mask_tfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/t1w_mask_tfm/result_t1w_mask_tfm.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/t1w_mask_tfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/t1w_mask_tfm/result_t1w_mask_tfm.pklz"
         },
         {
             "group": 1,
             "name": "217_modify_sphere",
-            "report": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/modify_sphere/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/modify_sphere/result_modify_sphere.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/modify_sphere/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/modify_sphere/result_modify_sphere.pklz"
         },
         {
             "group": 1,
             "name": "218_ds_t1w_dseg_mask_report",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/ds_t1w_dseg_mask_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/ds_t1w_dseg_mask_report/result_ds_t1w_dseg_mask_report.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/ds_t1w_dseg_mask_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/ds_t1w_dseg_mask_report/result_ds_t1w_dseg_mask_report.pklz"
         },
         {
             "group": 1,
             "name": "219_boldref_wm",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/boldref_wm/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/boldref_wm/result_boldref_wm.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/boldref_wm/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/boldref_wm/result_boldref_wm.pklz"
         },
         {
             "group": 1,
             "name": "220_acc_msk_tfm",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/result_acc_msk_tfm.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/result_acc_msk_tfm.pklz"
         },
         {
             "group": 1,
             "name": "221_anat2std_mask",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_mask/result_anat2std_mask.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_mask/result_anat2std_mask.pklz"
         },
         {
             "group": 1,
             "name": "222_anat2std_dseg",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_dseg/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_dseg/result_anat2std_dseg.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_dseg/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_dseg/result_anat2std_dseg.pklz"
         },
         {
             "group": 1,
             "name": "223_anat2std_tpms",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_tpms/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_tpms/result_anat2std_tpms.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_tpms/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_tpms/result_anat2std_tpms.pklz"
         },
         {
             "group": 1,
             "name": "224_anat2std_t1w",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_t1w/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_t1w/result_anat2std_t1w.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_t1w/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/anat2std_t1w/result_anat2std_t1w.pklz"
         },
         {
             "group": 1,
             "name": "225_boldref2target",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/result_boldref2target.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/result_boldref2target.pklz"
         },
         {
             "group": 1,
             "name": "226_boldref2target",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/result_boldref2target.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/boldref2target/result_boldref2target.pklz"
         },
         {
             "group": 1,
             "name": "227_t1w_std",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/t1w_std/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/t1w_std/result_t1w_std.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/t1w_std/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/t1w_std/result_t1w_std.pklz"
         },
         {
             "group": 1,
             "name": "228_mask_std",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/mask_std/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/mask_std/result_mask_std.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/mask_std/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/mask_std/result_mask_std.pklz"
         },
         {
             "group": 1,
             "name": "229_mrg_xfms",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/mrg_xfms/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/mrg_xfms/result_mrg_xfms.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/mrg_xfms/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/mrg_xfms/result_mrg_xfms.pklz"
         },
         {
             "group": 1,
             "name": "230_bold2target",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/bold2target/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/bold2target/result_bold2target.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/bold2target/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/bold2target/result_bold2target.pklz"
         },
         {
             "group": 1,
             "name": "231_union_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/union_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/union_mask/result_union_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/union_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/union_mask/result_union_mask.pklz"
         },
         {
             "group": 1,
             "name": "232_msmsulc",
-            "report": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/msmsulc/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/msmsulc/result_msmsulc.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/msmsulc/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/msmsulc/result_msmsulc.pklz"
         },
         {
             "group": 1,
             "name": "233_epi_t1_report",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/epi_t1_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/epi_t1_report/result_epi_t1_report.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/epi_t1_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/epi_t1_report/result_epi_t1_report.pklz"
         },
         {
             "group": 1,
             "name": "234_acc_msk_brain",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_brain/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_brain/result_acc_msk_brain.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_brain/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_brain/result_acc_msk_brain.pklz"
         },
         {
             "group": 1,
             "name": "235_ds_std_mask",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_mask/result_ds_std_mask.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_mask/result_ds_std_mask.pklz"
         },
         {
             "group": 1,
             "name": "236_ds_std_dseg",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_dseg/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_dseg/result_ds_std_dseg.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_dseg/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_dseg/result_ds_std_dseg.pklz"
         },
         {
             "group": 1,
             "name": "237_ds_std_tpms",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_tpms/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_tpms/result_ds_std_tpms.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_tpms/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_tpms/result_ds_std_tpms.pklz"
         },
         {
             "group": 1,
             "name": "238_ds_std_t1w",
-            "report": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w/_report/report.rst",
-            "result": "/sub_LJ002_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w/result_ds_std_t1w.pklz"
+            "report": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w/_report/report.rst",
+            "result": "/sub_LJ001_wf/ds_std_volumes_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w/result_ds_std_t1w.pklz"
         },
         {
             "group": 1,
             "name": "239_bold2target",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/bold2target/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/bold2target/result_bold2target.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/bold2target/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/bold2target/result_bold2target.pklz"
         },
         {
             "group": 1,
             "name": "240_resample_ref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_ref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_ref/result_resample_ref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_ref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_ref/result_resample_ref.pklz"
         },
         {
             "group": 1,
             "name": "241_resample_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_mask/result_resample_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample_mask/result_resample_mask.pklz"
         },
         {
             "group": 1,
             "name": "242_norm_msk",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_msk/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_msk/result_norm_msk.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_msk/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_msk/result_norm_msk.pklz"
         },
         {
             "group": 1,
             "name": "243_resample_parc",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/resample_parc/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/resample_parc/result_resample_parc.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/resample_parc/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/resample_parc/result_resample_parc.pklz"
         },
         {
             "group": 1,
             "name": "244_resample",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/resample/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_anat_wf/resample/result_resample.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/resample/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_anat_wf/resample/result_resample.pklz"
         },
         {
             "group": 1,
             "name": "245_dilated_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/dilated_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/dilated_mask/result_dilated_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/dilated_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/dilated_mask/result_dilated_mask.pklz"
         },
         {
             "group": 1,
             "name": "246_ds_sphere_reg_msm",
-            "report": "/sub_LJ002_wf/anat_fit_wf/ds_msmsulc_wf/ds_sphere_reg_msm/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/ds_msmsulc_wf/ds_sphere_reg_msm/result_ds_sphere_reg_msm.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/ds_msmsulc_wf/ds_sphere_reg_msm/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/ds_msmsulc_wf/ds_sphere_reg_msm/result_ds_sphere_reg_msm.pklz"
         },
         {
             "group": 1,
             "name": "247_ds_epi_t1_report",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_epi_t1_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_epi_t1_report/result_ds_epi_t1_report.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_epi_t1_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/func_fit_reports_wf/ds_epi_t1_report/result_ds_epi_t1_report.pklz"
         },
         {
             "group": 1,
             "name": "248_acc_msk_bin",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_bin/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_msk_bin/result_acc_msk_bin.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_bin/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_bin/result_acc_msk_bin.pklz"
         },
         {
             "group": 1,
             "name": "249_resample",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample/result_resample.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/resample/result_resample.pklz"
         },
         {
             "group": 1,
             "name": "250_ds_ref",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_ref/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_ref/result_ds_ref.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_ref/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_ref/result_ds_ref.pklz"
         },
         {
             "group": 1,
             "name": "251_ds_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_mask/result_ds_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_mask/result_ds_mask.pklz"
         },
         {
             "group": 1,
             "name": "252_norm_rpt",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_rpt/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_rpt/result_norm_rpt.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_rpt/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/norm_rpt/result_norm_rpt.pklz"
         },
         {
             "group": 1,
             "name": "253_subtract_mask",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/subtract_mask/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/subtract_mask/result_subtract_mask.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/subtract_mask/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/subtract_mask/result_subtract_mask.pklz"
         },
         {
             "group": 1,
             "name": "254_acompcor",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acompcor/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acompcor/result_acompcor.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acompcor/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acompcor/result_acompcor.pklz"
         },
         {
             "group": 1,
             "name": "255_merge_rois",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_rois/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_rois/result_merge_rois.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_rois/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_rois/result_merge_rois.pklz"
         },
         {
             "group": 1,
             "name": "256_ds_bold",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_bold/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_bold/result_ds_bold.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_bold/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_bold/result_ds_bold.pklz"
         },
         {
             "group": 1,
             "name": "257_ds_std_t1w_report",
-            "report": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w_report/_report/report.rst",
-            "result": "/sub_LJ002_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w_report/result_ds_std_t1w_report.pklz"
+            "report": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w_report/_report/report.rst",
+            "result": "/sub_LJ001_wf/anat_fit_wf/anat_reports_wf/_in_tuple_MNI152NLin2009cAsym.resnative/ds_std_t1w_report/result_ds_std_t1w_report.pklz"
         },
         {
             "group": 1,
             "name": "258_crowncompcor",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/crowncompcor/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/crowncompcor/result_crowncompcor.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/crowncompcor/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/crowncompcor/result_crowncompcor.pklz"
         },
         {
             "group": 1,
             "name": "259_mrg_compcor",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/mrg_compcor/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/mrg_compcor/result_mrg_compcor.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/mrg_compcor/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/mrg_compcor/result_mrg_compcor.pklz"
         },
         {
             "group": 1,
             "name": "260_parcels",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/parcels/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/parcels/result_parcels.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/parcels/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/parcels/result_parcels.pklz"
         },
         {
             "group": 1,
             "name": "261_rename_acompcor",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/rename_acompcor/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/rename_acompcor/result_rename_acompcor.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/rename_acompcor/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/rename_acompcor/result_rename_acompcor.pklz"
         },
         {
             "group": 1,
             "name": "262_signals",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/signals/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/signals/result_signals.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/signals/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/signals/result_signals.pklz"
         },
         {
             "group": 1,
             "name": "263_crowncc_metadata_fmt",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/crowncc_metadata_fmt/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/crowncc_metadata_fmt/result_crowncc_metadata_fmt.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/crowncc_metadata_fmt/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/crowncc_metadata_fmt/result_crowncc_metadata_fmt.pklz"
         },
         {
             "group": 1,
             "name": "264_merge_compcor_metadata",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_compcor_metadata/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_compcor_metadata/result_merge_compcor_metadata.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_compcor_metadata/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_compcor_metadata/result_merge_compcor_metadata.pklz"
         },
         {
             "group": 1,
             "name": "265_rois_plot",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/rois_plot/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/rois_plot/result_rois_plot.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/rois_plot/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/rois_plot/result_rois_plot.pklz"
         },
         {
             "group": 1,
             "name": "266_acc_metadata_filter",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_metadata_filter/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_metadata_filter/result_acc_metadata_filter.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_metadata_filter/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_metadata_filter/result_acc_metadata_filter.pklz"
         },
         {
             "group": 1,
             "name": "267_concat",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/concat/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/concat/result_concat.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/concat/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/concat/result_concat.pklz"
         },
         {
             "group": 1,
             "name": "268_compcor_plot",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/compcor_plot/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/compcor_plot/result_compcor_plot.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/compcor_plot/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/compcor_plot/result_compcor_plot.pklz"
         },
         {
             "group": 1,
             "name": "269_ds_report_bold_rois",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/ds_report_bold_rois/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/ds_report_bold_rois/result_ds_report_bold_rois.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/ds_report_bold_rois/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/ds_report_bold_rois/result_ds_report_bold_rois.pklz"
         },
         {
             "group": 1,
             "name": "270_acc_metadata_fmt",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_metadata_fmt/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/acc_metadata_fmt/result_acc_metadata_fmt.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_metadata_fmt/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_metadata_fmt/result_acc_metadata_fmt.pklz"
         },
         {
             "group": 1,
             "name": "271_model_expansion",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/model_expansion/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/model_expansion/result_model_expansion.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/model_expansion/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/model_expansion/result_model_expansion.pklz"
         },
         {
             "group": 1,
             "name": "272_conf_corr_plot",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/conf_corr_plot/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/conf_corr_plot/result_conf_corr_plot.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/conf_corr_plot/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/conf_corr_plot/result_conf_corr_plot.pklz"
         },
         {
             "group": 1,
             "name": "273_ds_report_compcor",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/ds_report_compcor/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/ds_report_compcor/result_ds_report_compcor.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/ds_report_compcor/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/ds_report_compcor/result_ds_report_compcor.pklz"
         },
         {
             "group": 1,
             "name": "274_merge_confound_metadata",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata/result_merge_confound_metadata.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata/result_merge_confound_metadata.pklz"
         },
         {
             "group": 1,
             "name": "275_spike_regressors",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/spike_regressors/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/spike_regressors/result_spike_regressors.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/spike_regressors/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/spike_regressors/result_spike_regressors.pklz"
         },
         {
             "group": 1,
             "name": "276_ds_report_conf_corr",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/ds_report_conf_corr/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/ds_report_conf_corr/result_ds_report_conf_corr.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/ds_report_conf_corr/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/ds_report_conf_corr/result_ds_report_conf_corr.pklz"
         },
         {
             "group": 1,
             "name": "277_merge_confound_metadata2",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata2/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata2/result_merge_confound_metadata2.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata2/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/merge_confound_metadata2/result_merge_confound_metadata2.pklz"
         },
         {
             "group": 1,
             "name": "278_conf_plot",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/conf_plot/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/conf_plot/result_conf_plot.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/conf_plot/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/conf_plot/result_conf_plot.pklz"
         },
         {
             "group": 1,
             "name": "279_ds_confounds",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_confounds/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_confounds/result_ds_confounds.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_confounds/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_confounds/result_ds_confounds.pklz"
         },
         {
             "group": 1,
             "name": "280_ds_report_bold_conf",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/ds_report_bold_conf/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/carpetplot_wf/ds_report_bold_conf/result_ds_report_bold_conf.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/ds_report_bold_conf/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/carpetplot_wf/ds_report_bold_conf/result_ds_report_bold_conf.pklz"
         },
         {
             "group": 2,
             "name": "281_raw_sources",
-            "report": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/raw_sources/_report/report.rst",
-            "result": "/sub_LJ002_wf/bold_ses_LJ002MR1_task_judge_wf/ds_bold_std_wf/raw_sources/result_raw_sources.pklz"
+            "report": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/raw_sources/_report/report.rst",
+            "result": "/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/ds_bold_std_wf/raw_sources/result_raw_sources.pklz"
         }
     ]
 }

@@ -1,1 +1,0 @@
-ImageMath 3 sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_maths_corrected_maths.nii.gz Laplacian /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/inu_n4/mapflow/_inu_n40/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_maths_corrected.nii.gz 1.5 1

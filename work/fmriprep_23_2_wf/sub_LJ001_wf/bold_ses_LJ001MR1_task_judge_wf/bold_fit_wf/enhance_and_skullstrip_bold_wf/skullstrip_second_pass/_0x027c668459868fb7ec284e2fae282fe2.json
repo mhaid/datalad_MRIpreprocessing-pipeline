@@ -1,0 +1,23 @@
+[
+    [
+        "dilate",
+        1
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/fixhdr_unifize/uni_xform.nii.gz",
+            "cc421e947b5387a6119b8c02fea7ff1c"
+        ]
+    ],
+    [
+        "outputtype",
+        "NIFTI_GZ"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

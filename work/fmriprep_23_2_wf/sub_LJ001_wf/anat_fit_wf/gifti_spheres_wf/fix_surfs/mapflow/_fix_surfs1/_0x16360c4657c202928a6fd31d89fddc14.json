@@ -1,0 +1,15 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fs2gii/mapflow/_fs2gii1/rh.sphere.reg_converted.gii",
+            "c58c52a6c80b767d275b6d9dc4091dc8"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

@@ -1,0 +1,31 @@
+[
+    [
+        "index",
+        [
+            2
+        ]
+    ],
+    [
+        "inlist",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/POSTERIOR_01.nii.gz",
+                "de86bcb46517aac6d81415db8aba739e"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/POSTERIOR_02.nii.gz",
+                "18bb24110725b3257e054b94ed94c079"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/01_atropos/POSTERIOR_03.nii.gz",
+                "bf685d8912ca24c0231149f45ce0709c"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

@@ -1,0 +1,34 @@
+[
+    [
+        "axis",
+        "vstack"
+    ],
+    [
+        "in1",
+        [
+            "/home/fmriprep/.cache/templateflow/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_T1w.nii.gz",
+            "cfba07cc030ee100f8b231c7f5b31df5"
+        ]
+    ],
+    [
+        "in2",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/brain_extraction_wf/lap_tmpl/tpl-OASIS30ANTs_res-01_T1w_maths.nii.gz",
+            "243d7501f00a38aef5c5dee61c25bed0"
+        ]
+    ],
+    [
+        "no_flatten",
+        false
+    ],
+    [
+        "ravel_inputs",
+        false
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

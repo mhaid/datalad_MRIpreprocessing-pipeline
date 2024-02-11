@@ -1,1 +1,0 @@
-mris_convert --to-scanner /tmp/sourcedata/freesurfer/sub-LJ002/surf/lh.midthickness /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_surface_wf/fs2gii/mapflow/_fs2gii4/lh.midthickness_converted.gii

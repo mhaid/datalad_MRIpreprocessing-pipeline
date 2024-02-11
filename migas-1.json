@@ -1,1 +1,1 @@
-{"_pid": 1, "endpoint": "https://migas.nipreps.org/graphql", "user_id": "3e523351-e845-366b-9e6a-cc8e5c52f34a", "session_id": "4f785cc7-e419-4240-834d-a808b2b061e8", "language": "python", "language_version": "3.10.13", "platform": "linux", "container": "docker", "is_ci": false}
+{"_pid": 1, "endpoint": "https://migas.nipreps.org/graphql", "user_id": "3e523351-e845-366b-9e6a-cc8e5c52f34a", "session_id": "7511f986-1849-43f0-a743-3075587d2aec", "language": "python", "language_version": "3.10.13", "platform": "linux", "container": "docker", "is_ci": false}

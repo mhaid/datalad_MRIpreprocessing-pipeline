@@ -1,1 +1,0 @@
-mris_convert -c /tmp/sourcedata/freesurfer/sub-LJ002/surf/rh.sulc /tmp/sourcedata/freesurfer/sub-LJ002/surf/rh.white /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/mapflow/_morphs2gii3/rh.sulc_converted.gii

@@ -1,0 +1,26 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_tfm/mapflow/_acc_msk_tfm2/acompcor_wmcsf_trans.nii.gz",
+            "fe6c75098931d05b652b0dff54d0cae6"
+        ]
+    ],
+    [
+        "in_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/combine_masks/sub-LJ001_ses-LJ001MR1_task-judge_bold_average_corrected_brain_mask_maths.nii.gz",
+            "c9811fcc7a915a39632d2bcfdfd1c515"
+        ]
+    ],
+    [
+        "threshold",
+        "0.5000000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

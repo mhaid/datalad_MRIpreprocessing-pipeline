@@ -1,0 +1,1 @@
+mris_convert -c /tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.thickness /tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.white /tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_morphometrics_wf/morphs2gii/mapflow/_morphs2gii1/rh.thickness_converted.gii

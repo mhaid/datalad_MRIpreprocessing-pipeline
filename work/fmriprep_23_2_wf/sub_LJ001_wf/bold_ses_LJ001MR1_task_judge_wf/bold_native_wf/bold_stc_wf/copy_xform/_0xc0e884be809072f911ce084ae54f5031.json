@@ -1,0 +1,22 @@
+[
+    [
+        "hdr_file",
+        [
+            "/tmp/sourcedata/rawdata-bids/sub-LJ001/ses-LJ001MR1/func/sub-LJ001_ses-LJ001MR1_task-judge_bold.nii.gz",
+            "6f6603b158dedcc4768463695067cd15"
+        ]
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_native_wf/bold_stc_wf/slice_timing_correction/sub-LJ001_ses-LJ001MR1_task-judge_bold_tshift.nii.gz",
+            "78cb8d6db0aa70d0e1f516fb3948f6da"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

@@ -1,0 +1,34 @@
+[
+    [
+        "in_affine",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/regress_affine/mapflow/_regress_affine0/lh.sphere_converted_xfm",
+                "e879aac083711d617a0c8fc75dfb9921"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/msm_sulc_wf/regress_affine/mapflow/_regress_affine1/rh.sphere_converted_xfm",
+                "23c5ab73ee669faf97f2c8916ffb39ef"
+            ]
+        ]
+    ],
+    [
+        "in_surface",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs2/lh.sphere_converted.gii",
+                "2791c5276b1b60fe72927a9c24234221"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs3/rh.sphere_converted.gii",
+                "98f65a79e34017025f3eab2c94ea65e3"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_surface"
+        ]
+    ]
+]

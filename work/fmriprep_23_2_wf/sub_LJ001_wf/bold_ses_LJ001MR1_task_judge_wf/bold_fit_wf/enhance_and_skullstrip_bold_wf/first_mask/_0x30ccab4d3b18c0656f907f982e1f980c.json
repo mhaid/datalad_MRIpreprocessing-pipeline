@@ -1,0 +1,26 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/skullstrip_first_pass/sub-LJ001_ses-LJ001MR1_task-judge_bold_average_corrected_brain.nii.gz",
+            "0044035a280edde85632c01d6dafd11c"
+        ]
+    ],
+    [
+        "in_mask",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/enhance_and_skullstrip_bold_wf/first_dilate/sub-LJ001_ses-LJ001MR1_task-judge_bold_average_corrected_brain_mask_dil.nii.gz",
+            "937eeb0162e10f6bdc94899038bf5eb4"
+        ]
+    ],
+    [
+        "threshold",
+        "0.5000000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

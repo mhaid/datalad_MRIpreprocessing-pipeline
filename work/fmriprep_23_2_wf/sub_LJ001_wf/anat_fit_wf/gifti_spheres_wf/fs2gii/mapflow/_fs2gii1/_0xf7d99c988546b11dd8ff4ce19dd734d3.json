@@ -1,0 +1,27 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.sphere.reg",
+            "f2159f688581d61b67a21e5a9a95eede"
+        ]
+    ],
+    [
+        "out_datatype",
+        "gii"
+    ],
+    [
+        "subjects_dir",
+        "/opt/freesurfer/subjects"
+    ],
+    [
+        "to_scanner",
+        false
+    ],
+    [
+        "needed_outputs",
+        [
+            "converted"
+        ]
+    ]
+]

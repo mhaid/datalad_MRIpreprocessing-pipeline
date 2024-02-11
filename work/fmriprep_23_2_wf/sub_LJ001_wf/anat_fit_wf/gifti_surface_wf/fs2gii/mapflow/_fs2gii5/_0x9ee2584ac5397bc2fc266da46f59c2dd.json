@@ -1,0 +1,27 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/sourcedata/freesurfer/sub-LJ001/surf/rh.midthickness",
+            "5f7c4f5aa4cbd008d24a9e1efad9e6f9"
+        ]
+    ],
+    [
+        "out_datatype",
+        "gii"
+    ],
+    [
+        "subjects_dir",
+        "/opt/freesurfer/subjects"
+    ],
+    [
+        "to_scanner",
+        true
+    ],
+    [
+        "needed_outputs",
+        [
+            "converted"
+        ]
+    ]
+]

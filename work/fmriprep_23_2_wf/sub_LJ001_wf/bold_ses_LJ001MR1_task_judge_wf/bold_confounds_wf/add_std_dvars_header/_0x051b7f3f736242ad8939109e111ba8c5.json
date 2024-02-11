@@ -1,0 +1,21 @@
+[
+    [
+        "columns",
+        [
+            "std_dvars"
+        ]
+    ],
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/dvars/sub-LJ001_ses-LJ001MR1_task-judge_bold_tshift_xformresampled_dvars_std.tsv",
+            "ecd8d6402c6033162befca82d21c5bdf"
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]

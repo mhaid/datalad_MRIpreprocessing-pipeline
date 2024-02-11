@@ -1,1 +1,0 @@
-MultiplyImages 3 /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/brain_extraction_wf/atropos_wf/05_get_wm/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected_corrected_labeled_maths_class-03_maths.nii.gz 3.0 09_relabel_wm.nii.gz

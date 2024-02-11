@@ -1,0 +1,34 @@
+[
+    [
+        "axis",
+        "vstack"
+    ],
+    [
+        "in1",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/bbregister/sub-LJ001_ses-LJ001MR1_task-judge_desc-coreg_boldref_bbreg_sub-LJ001.lta",
+            "01fa9ae1a336f2709ab2ee06f702cf79"
+        ]
+    ],
+    [
+        "in2",
+        [
+            "/tmp/sub-LJ001/ses-LJ001MR1/anat/sub-LJ001_ses-LJ001MR1_acq-mprage_from-fsnative_to-T1w_mode-image_xfm.txt",
+            "63b4cdd6f4e4610956f677de7201767c"
+        ]
+    ],
+    [
+        "no_flatten",
+        false
+    ],
+    [
+        "ravel_inputs",
+        false
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

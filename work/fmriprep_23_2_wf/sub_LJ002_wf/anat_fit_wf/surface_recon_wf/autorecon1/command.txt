@@ -1,1 +1,0 @@
-recon-all -autorecon1 -i /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/anat_template_wf/denoise/mapflow/_denoise0/sub-LJ002_ses-LJ002MR1_acq-mprage_T1w_noise_corrected.nii.gz -noskullstrip -noT2pial -noFLAIRpial -openmp 3 -subjid sub-LJ002 -sd /tmp/sourcedata/freesurfer

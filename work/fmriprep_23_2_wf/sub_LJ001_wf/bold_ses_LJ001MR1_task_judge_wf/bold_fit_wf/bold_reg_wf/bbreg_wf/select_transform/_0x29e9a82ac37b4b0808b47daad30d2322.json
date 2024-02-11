@@ -1,0 +1,27 @@
+[
+    [
+        "index",
+        [
+            0
+        ]
+    ],
+    [
+        "inlist",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/bbregister/sub-LJ001_ses-LJ001MR1_task-judge_desc-coreg_boldref_bbreg_sub-LJ001.lta",
+                "01fa9ae1a336f2709ab2ee06f702cf79"
+            ],
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_fit_wf/bold_reg_wf/bbreg_wf/mri_coreg/registration.lta",
+                "4ee08f814c9b3c8a560b0f8fdebb8b77"
+            ]
+        ]
+    ],
+    [
+        "needed_outputs",
+        [
+            "out"
+        ]
+    ]
+]

@@ -2,7 +2,7 @@
     {
         "group": 1,
         "imports": [],
-        "name": "000_fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8",
+        "name": "000_fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec",
         "size": 1
     },
     {
@@ -194,7 +194,7 @@
         "imports": [
             "001_bidssrc",
             "014_bids_info",
-            "000_fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8"
+            "000_fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec"
         ],
         "name": "027_summary",
         "size": 1
@@ -202,7 +202,7 @@
     {
         "group": 1,
         "imports": [
-            "000_fsdir_run_20240210_162726_4f785cc7_e419_4240_834d_a808b2b061e8",
+            "000_fsdir_run_20240211_105926_7511f986_1849_43f0_a743_3075587d2aec",
             "014_bids_info"
         ],
         "name": "028_fs_isrunning",
@@ -1464,8 +1464,8 @@
     {
         "group": 1,
         "imports": [
-            "133_trunc_mov",
             "011_split_desc",
+            "133_trunc_mov",
             "166_refine",
             "001_bidssrc"
         ],
@@ -1878,8 +1878,8 @@
     {
         "group": 1,
         "imports": [
-            "211_select_xfm",
             "135_gen_ref",
+            "211_select_xfm",
             "174_ds_t1w_mask"
         ],
         "name": "221_anat2std_mask",
@@ -1888,8 +1888,8 @@
     {
         "group": 1,
         "imports": [
-            "211_select_xfm",
             "135_gen_ref",
+            "211_select_xfm",
             "202_ds_t1w_dseg"
         ],
         "name": "222_anat2std_dseg",
@@ -1898,8 +1898,8 @@
     {
         "group": 1,
         "imports": [
-            "211_select_xfm",
             "135_gen_ref",
+            "211_select_xfm",
             "203_ds_t1w_tpms"
         ],
         "name": "223_anat2std_tpms",
@@ -1908,8 +1908,8 @@
     {
         "group": 1,
         "imports": [
-            "211_select_xfm",
             "135_gen_ref",
+            "211_select_xfm",
             "187_mask_t1w"
         ],
         "name": "224_anat2std_t1w",
@@ -2080,9 +2080,9 @@
     {
         "group": 1,
         "imports": [
-            "228_mask_std",
             "026_select_tpl",
-            "227_t1w_std"
+            "227_t1w_std",
+            "228_mask_std"
         ],
         "name": "242_norm_msk",
         "size": 1
@@ -2142,8 +2142,8 @@
     {
         "group": 1,
         "imports": [
-            "071_gen_ref",
             "239_bold2target",
+            "071_gen_ref",
             "045_copy_xform"
         ],
         "name": "249_resample",
@@ -2208,8 +2208,8 @@
     {
         "group": 1,
         "imports": [
-            "012_spacesource",
-            "249_resample"
+            "249_resample",
+            "012_spacesource"
         ],
         "name": "256_ds_bold",
         "size": 1

@@ -1,0 +1,1 @@
+DenoiseImage -i /tmp/sourcedata/rawdata-bids/sub-LJ001/ses-LJ001MR1/anat/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w.nii.gz -n Rician -o sub-LJ001_ses-LJ001MR1_acq-mprage_T1w_noise_corrected.nii.gz -s 1

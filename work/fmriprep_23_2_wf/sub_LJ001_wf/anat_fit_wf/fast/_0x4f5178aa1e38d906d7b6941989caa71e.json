@@ -1,0 +1,34 @@
+[
+    [
+        "in_files",
+        [
+            [
+                "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/anat_fit_wf/applyrefined/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w_noise_corrected_corrected_xform_masked.nii.gz",
+                "d28eef81ec72d53e451f077afb74d4fb"
+            ]
+        ]
+    ],
+    [
+        "no_bias",
+        true
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ],
+    [
+        "probability_maps",
+        true
+    ],
+    [
+        "segments",
+        true
+    ],
+    [
+        "needed_outputs",
+        [
+            "partial_volume_files",
+            "partial_volume_map"
+        ]
+    ]
+]

@@ -1,1 +1,0 @@
-wb_command -surface-apply-affine /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/gifti_spheres_wf/fix_surfs/mapflow/_fix_surfs3/rh.sphere_converted.gii /tmp/work/fmriprep_23_2_wf/sub_LJ002_wf/anat_fit_wf/msm_sulc_wf/regress_affine/mapflow/_regress_affine1/rh.sphere_converted_xfm rh.sphere_converted_xformed.surf.gii

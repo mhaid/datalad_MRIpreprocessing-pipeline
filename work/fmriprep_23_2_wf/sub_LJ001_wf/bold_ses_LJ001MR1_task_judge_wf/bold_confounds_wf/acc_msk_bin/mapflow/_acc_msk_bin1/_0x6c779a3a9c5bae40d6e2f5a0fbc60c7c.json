@@ -1,0 +1,19 @@
+[
+    [
+        "in_file",
+        [
+            "/tmp/work/fmriprep_23_2_wf/sub_LJ001_wf/bold_ses_LJ001MR1_task_judge_wf/bold_confounds_wf/acc_msk_brain/mapflow/_acc_msk_brain1/acompcor_wm_trans_masked.nii.gz",
+            "fb8551f9fee1728c7ee41d76d05ec10e"
+        ]
+    ],
+    [
+        "thresh_low",
+        "0.9900000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "out_file"
+        ]
+    ]
+]
