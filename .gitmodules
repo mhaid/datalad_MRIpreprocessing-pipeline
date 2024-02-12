@@ -1,9 +1,4 @@
 [submodule "sourcedata/rawdata-bids"]
 	path = sourcedata/rawdata-bids
-	url = /mnt/c/Projekte/DataLad/3c-MRIconversion-pipeline/rawdata-bids/
-	datalad-id = b36730ca-3a2f-466c-8947-329a539a605f
-	datalad-url = /mnt/c/Projekte/DataLad/3c-MRIconversion-pipeline/rawdata-bids/
-[submodule "sourcedata/rawdata-bids"]
-	path = sourcedata/rawdata-bids
-	url = /mnt/c/Projekte/DataLad/3c-MRIconversion-pipeline/rawdata-bids/
+	url = https://github.com/mhaid/datalad_MRIpreprocessing-pipeline-sourcedata-rawdata-bids.git
 	datalad-id = b36730ca-3a2f-466c-8947-329a539a605f
